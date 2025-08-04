@@ -26,11 +26,27 @@ about:
 
 ::: {#hero-heading}
 
-社会学人
+# 欢迎来到我的个人主页！
 
-## Background
+## 个人简介
 
-- 2021-2025: 
-- 2018-2021: 
+
+
+## 关注领域
+
+社会学（Sociology）、经济学（Economics）
+
+## 兴趣技能
+
+Data Analysis
+Python、Stata、R、Markdown、Quarto
+
+## 教育经历
+
+目前正接受“社会”的教育，活到老学到老，保持学习！
+
+- 2025至今：社会（Society）
+- 2021-2025: 大学（University）
+- 2018-2021: 高中（High school）
 
 :::

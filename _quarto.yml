@@ -10,14 +10,10 @@ website:
   repo-url: https://github.com/pankid/pankid.github.io
   repo-actions: [edit, issue]
   
-  page-footer:
-    left: |
-      [pankid](https://pankid.netlify.app)<br>
-    right: |
-      Made with [Quarto](https://quarto.org/)<br>
+  page-footer: "“我们在日常生活中度过的每一天，实际上也许是连续发生的奇迹也说不定呢。”"
     
   navbar: 
-    background: "#A9CCE3"
+    background: "#87CEFA"
     search: true
     right: 
       - text: "Home"
