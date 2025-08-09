@@ -1,7 +1,6 @@
 ---
 title: "pankid"
 image: images/wukong5.jpeg
-date-format: iso                    # 时间格式为“2025-08-01”
 listing: 
   contents: posts
   sort: 
@@ -30,7 +29,7 @@ about:
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com
-    - icon: brands home
+    - icon: bookmarks
       text: 连享会
       href: https://www.lianxh.cn
     - icon: file-person                    # 📝
