@@ -32,7 +32,7 @@ about:
     - icon: bookmarks
       text: 连享会
       href: https://www.lianxh.cn
-    - icon: file-person                    # 📝
+    - icon: file-person
       text: CV
       href: CV.pdf  
 ---

@@ -40,13 +40,10 @@ website:
         href: about.qmd
     right: 
       - icon: github
-      - text: Github
         href: https://github.com
       - icon: google
-      - text: Google
         href: https://www.google.com
       - icon: youtube
-      - text: YouTube
         href: https://www.youtube.com
 
 format:
