@@ -30,7 +30,7 @@ about:
 
 ## 个人简介
 
-
+男，2003年生，双子座，广西桂林人，现居广西南宁。
 
 ## 关注领域
 
@@ -38,15 +38,15 @@ about:
 
 ## 兴趣技能
 
-Data Analysis
+数据分析（Data Analysis）  
 Python、Stata、R、Markdown、Quarto
 
 ## 教育经历
 
-目前正接受“社会”的教育，活到老学到老，保持学习！
+目前正接受“社会”教育，活到老学到老，保持学习！
 
-- 2025至今：社会（Society）
-- 2021-2025: 大学（University）
-- 2018-2021: 高中（High school）
+- 2025~2025：社会（Society）
+- 2021~2025：大学（University）
+- 2018~2021：高中（High school）
 
 :::
