@@ -7,6 +7,9 @@ website:
   title: "pankid"
   site-url: https://pankid.github.io
   favicon: images/wukong5-site.jpg
+  reader-mode: true                                           # 启用阅读模式
+  bread-crumbs: true                                          # 引导用户了解正在阅读的内容处于网站什么位置
+  back-to-top-navigation: true                                # 页面底部加一个“返回顶部”按钮
   repo-url: https://github.com/pankid/pankid.github.io
   repo-actions: [edit, issue]
   
@@ -17,9 +20,10 @@ website:
     #  Made with [Quarto](https://quarto.org/)<br>
 
   navbar: 
-    background: "#0d6efd"  # 设置导航栏背景颜色为蓝色
+    background: primary
+    pinned: true
     search: true
-    right: 
+    left: 
       - text: "Home"
         href: index.qmd
       - text: "Publications"
@@ -33,7 +37,14 @@ website:
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"
-        href: CV.pdf
+        href: about.qmd
+    right: 
+      - icon: github
+        href: https://github.com
+      - icon: google
+        href: https://www.google.com
+      - icon: youtube
+        href: https://www.youtube.com
 
 format:
   html:

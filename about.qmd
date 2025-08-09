@@ -1,5 +1,49 @@
 ---
-title: "About"
+title: "pankid"
+image: images/wukong5.jpeg
+
+about: 
+  template: trestles
+  image-width: 20em
+  image-shape: rectangle
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com
+    - icon: mailbox
+      text: Gmail
+      href: https://mail.google.com
+
 ---
 
-连玉君的个人主页
+# 欢迎来到我的个人主页！
+
+## 个人简介
+
+男，2003年生，双子座，广西桂林人，现居广西南宁。
+
+## 关注领域
+
+社会学（Sociology）、经济学（Economics）
+
+## 兴趣技能
+
+数据分析（Data Analysis）  
+Python、Stata、R、Markdown、Quarto
+
+## 教育经历
+
+目前正接受“社会”教育，活到老学到老，保持学习！
+
+- 2025~2025：社会（Society）
+- 2021~2025：大学（University）
+- 2018~2021：高中（High school）
