@@ -1,6 +1,20 @@
 ---
 title: "pankid"
 image: images/wukong5.jpeg
+date-format: iso                    # 时间格式为“2025-08-01”
+listing: 
+  contents: posts
+  sort: 
+    - "date desc"
+    - "title desc"
+  sort-ui: true
+  filter-ui: true
+  type: default
+  date-format: iso
+  categories: true
+page-layout: full
+title-block-banner: false
+
 about:
   id: hero-heading
   template: trestles
