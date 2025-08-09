@@ -17,7 +17,7 @@ website:
     #  Made with [Quarto](https://quarto.org/)<br>
 
   navbar: 
-    background: "#87CEFA"
+    background: "#0d6efd"  # 设置导航栏背景颜色为蓝色
     search: true
     right: 
       - text: "Home"
