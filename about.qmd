@@ -3,7 +3,7 @@ title: "pankid"
 image: images/wukong5.jpeg
 
 about: 
-  template: jolla
+  template: trestles
   image-width: 20em
   image-shape: rounded
   links: 

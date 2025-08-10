@@ -91,10 +91,6 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
@@ -118,18 +114,48 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">CV</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./view.qmd"> 
+<span class="menu-text">View</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-pictures" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Pictures</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-pictures">    
+        <li>
+    <a class="dropdown-item" href="./pictures.html">
+ <span class="dropdown-text">pictures.html</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-videos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Videos</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-videos">    
+        <li>
+    <a class="dropdown-item" href="./videos.html">
+ <span class="dropdown-text">videos.html</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">More</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="./about1.qmd">
- <span class="dropdown-text">About</span></a>
+    <a class="dropdown-item" href="./help.html">
+ <span class="dropdown-text">Help</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contact.qmd">
- <span class="dropdown-text">Contact</span></a>
+    <a class="dropdown-item" href="./Q&amp;A.html">
+ <span class="dropdown-text">Q&amp;A</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/pankid/pankid.github.io/issues/new">
+ <span class="dropdown-text">Ask a Question</span></a>
   </li>  
     </ul>
   </li>
@@ -181,16 +207,41 @@ ul.task-list li input[type="checkbox"] {
 <div class="toc-actions"><ul><li><a href="https://github.com/pankid/pankid.github.io/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pankid/pankid.github.io/blob/main/about.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/pankid/pankid.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/wukong5.jpeg" class="about-image
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="images/wukong5.jpeg" class="about-image
   rounded " style="width: 20em;">
- <header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">pankid</h1>
 </div>
 <div class="quarto-title-meta">
   </div>
-</header><main class="content" id="quarto-document-content">
+</header>
+    <div class="about-links">
+  <a href="https://github.com" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="https://twitter.com" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://www.youtube.com" class="about-link" rel="" target="">
+    <i class="bi bi-youtube"></i>
+     <span class="about-link-text">YouTube</span>
+  </a>
+  <a href="https://www.instagram.com" class="about-link" rel="" target="">
+    <i class="bi bi-instagram"></i>
+     <span class="about-link-text">Instagram</span>
+  </a>
+  <a href="https://mail.google.com" class="about-link" rel="" target="">
+    <i class="bi bi-mailbox"></i>
+     <span class="about-link-text">Gmail</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
 
 <section id="欢迎来到我的个人主页" class="level1">
 <h1>欢迎来到我的个人主页！</h1>
@@ -219,30 +270,7 @@ Python、Stata、R、Markdown、Quarto</p>
 
 </section>
 </section>
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://github.com" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://twitter.com" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://www.youtube.com" class="about-link" rel="" target="">
-    <i class="bi bi-youtube"></i>
-     <span class="about-link-text">YouTube</span>
-  </a>
-  <a href="https://www.instagram.com" class="about-link" rel="" target="">
-    <i class="bi bi-instagram"></i>
-     <span class="about-link-text">Instagram</span>
-  </a>
-  <a href="https://mail.google.com" class="about-link" rel="" target="">
-    <i class="bi bi-mailbox"></i>
-     <span class="about-link-text">Gmail</span>
-  </a>
-</div>
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main></div>
 </div>
  <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

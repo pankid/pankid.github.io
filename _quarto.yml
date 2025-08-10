@@ -34,8 +34,6 @@ website:
     pinned: true
     search: true
     left: 
-      - text: "Home"
-        href: index.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Books"
@@ -48,12 +46,18 @@ website:
         href: Chinese.qmd
       - text: "CV"
         href: about.qmd
+      - text: "View"
+        href: view.qmd
+      - sidebar:pictures
+      - sidebar:videos
       - text: "More"
         menu: 
-          - text: "About"
-            href: about1.qmd
-          - text: "Contact"
-            href: contact.qmd
+          - text: "Help"
+            href: help.qmd
+          - text: "Q&A"
+            href: Q&A.qmd
+          - text: "Ask a Question"
+            href: https://github.com/pankid/pankid.github.io/issues/new
     right: 
       - icon: github
         href: https://github.com
@@ -63,18 +67,25 @@ website:
         href: https://www.youtube.com
   
   sidebar: 
-    - title: "Publications"
-      style: "floating"
+    - id: pictures
+      title: "Pictures"
+      style: floating
       background: light
+      collapse-level: 3
+      contents: 
+        - pictures.qmd
+
+    - id: videos
+      title: "Videos"
+      contents: 
+        - videos.qmd
+        
+    - title: "Publications"
       contents: 
         - publications.qmd
-        - publications1.qmd
-        - publications2.qmd
     - title: "Books"
       contents: 
         - books.qmd
-        - books1.qmd
-        - books2.qmd
 
 format:
   html:
