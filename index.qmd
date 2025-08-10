@@ -9,7 +9,7 @@ listing:
   sort-ui: true
   filter-ui: true
   type: default
-  date-format: iso
+  date-format: "YYYY-MM-DD dddd Z HH:mm"
   categories: true
 page-layout: full
 title-block-banner: false
