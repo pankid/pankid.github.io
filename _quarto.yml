@@ -11,15 +11,17 @@ website:
   bread-crumbs: true                                          # 引导用户了解正在阅读的内容处于网站什么位置
   back-to-top-navigation: true                                # 页面底部加一个“返回顶部”按钮
   repo-url: https://github.com/pankid/pankid.github.io
-  repo-actions: [edit, issue]
-  
-  page-footer: "“我们在日常生活中度过的每一天，实际上也许是连续发生的奇迹也说不定呢。”"
-    #left: |
-    #  [pankid](https://pankid.netlify.app)<br>
-    #right: |
-    #  Made with [Quarto](https://quarto.org/)<br>
+  repo-actions: [edit, source, issue]
+  page-footer: 
+    center: 
+      "“我们在日常生活中度过的每一天，实际上也许是连续发生的奇迹也说不定呢。”"
+    left: |
+      [pankid](https://pankid.netlify.app)<br>
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
 
   navbar: 
+    logo: images/wukong5.jpeg
     background: primary
     pinned: true
     search: true
@@ -38,6 +40,12 @@ website:
         href: Chinese.qmd
       - text: "CV"
         href: about.qmd
+      - text: "More"
+        menu: 
+          - text: "About"
+            href: about1.qmd
+          - text: "Contact"
+            href: contact.qmd
     right: 
       - icon: github
         href: https://github.com
@@ -45,6 +53,20 @@ website:
         href: https://www.google.com
       - icon: youtube
         href: https://www.youtube.com
+  
+  sidebar: 
+    - title: "Publications"
+      style: "floating"
+      background: light
+      contents: 
+        - publications.qmd
+        - publications1.qmd
+        - publications2.qmd
+    - title: "Books"
+      contents: 
+        - books.qmd
+        - books1.qmd
+        - books2.qmd
 
 format:
   html:
