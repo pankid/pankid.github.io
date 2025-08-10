@@ -44,9 +44,9 @@ website:
         href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
-      - sidebar:view
       - text: "CV"
         href: about.qmd
+      - sidebar:view
       - text: "More"
         menu: 
           - text: "Help"
@@ -69,9 +69,7 @@ website:
       style: floating
       background: light
       collapse-level: 3
-      contents: 
-        - pictures.qmd
-        - videos.qmd
+      contents: view
 
     - title: "Publications"
       contents: 
