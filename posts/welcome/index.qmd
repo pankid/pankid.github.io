@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 author: "pankid"
 date: "2025-08-01"
-date-format: "YYYY-MM-DD, dddd, HH:mm"
+date-format: "YYYY-MM-DD dddd HH:mm"
 categories: [news]
 ---
 
