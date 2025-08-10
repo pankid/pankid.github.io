@@ -44,12 +44,9 @@ website:
         href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
+      - sidebar:view
       - text: "CV"
         href: about.qmd
-      - text: "View"
-        href: view.qmd
-      - sidebar:pictures
-      - sidebar:videos
       - text: "More"
         menu: 
           - text: "Help"
@@ -67,19 +64,15 @@ website:
         href: https://www.youtube.com
   
   sidebar: 
-    - id: pictures
-      title: "Pictures"
+    - id: view
+      title: "View"
       style: floating
       background: light
       collapse-level: 3
       contents: 
         - pictures.qmd
-
-    - id: videos
-      title: "Videos"
-      contents: 
         - videos.qmd
-        
+
     - title: "Publications"
       contents: 
         - publications.qmd
