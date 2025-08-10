@@ -1,12 +1,20 @@
 project:
   type: website
   output-dir: docs
-  
+
+language: 
+  search-text-placeholder: "Search..."
+
 website:
   page-navigation: true
   title: "pankid"
   site-url: https://pankid.github.io
   favicon: images/wukong5-site.jpg
+  search: 
+    location: navbar
+    type: textbox
+    copy-button: true
+    show-item-context: tree
   reader-mode: true                                           # 启用阅读模式
   bread-crumbs: true                                          # 引导用户了解正在阅读的内容处于网站什么位置
   back-to-top-navigation: true                                # 页面底部加一个“返回顶部”按钮

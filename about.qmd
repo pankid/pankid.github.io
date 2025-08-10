@@ -3,9 +3,9 @@ title: "pankid"
 image: images/wukong5.jpeg
 
 about: 
-  template: trestles
+  template: jolla
   image-width: 20em
-  image-shape: rectangle
+  image-shape: rounded
   links: 
     - icon: github
       text: Github
