@@ -69,6 +69,7 @@ website:
       style: floating
       background: light
       collapse-level: 3
+      alignment: center
       contents: view
 
     - title: "Publications"
