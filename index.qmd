@@ -16,7 +16,7 @@ title-block-banner: false
 
 about:
   id: hero-heading
-  template: jolla
+  template: trestles
   image-width: 16em
   image-shape: round
   links:

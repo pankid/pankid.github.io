@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 /* 主题颜色定义 */
-$theme-black: #4c4c4c;
+$theme-black: #000000;
 $theme-white: white;
-$theme-grey: #e9ecef;
+$theme-grey: #aaaaaa;
 
 $theme-purple3: #88398A;
 $theme-purple4: #9d709e;
@@ -13,18 +13,18 @@ $theme-purplebrown2: #7c6c84;
 $theme-darkcoffee1: #570e06;
 $theme-darkcoffee2: #78504b;
 $theme-darkcoffee3: #632e0d;
-$theme-milkcoffee0: #f2ece3;
+$theme-milkcoffee0: #d4d4d4;
 $theme-milkcoffee3: #cca79f;
 $theme-milkcoffee2: #b98f68;
 $theme-milkcoffee1: #9e736a;
-$theme-mocha1: #7f2606;
-$theme-mocha2: #9a4c28;
-$theme-mocha3: #b46939;
-$theme-orange: #f9af11;
-$theme-pumpkin: #d05808;
-$theme-darkgreen1: #355E3B;
-$theme-darkgreen2: #445740;
-$theme-blue1: #0d6efd;
+$theme-mocha1: #ff4400;
+$theme-mocha2: #a13300;
+$theme-mocha3: #813200;
+$theme-yellow: #ffae00;
+$theme-orange: #cc5200;
+$theme-darkgreen1: #006d10;
+$theme-darkgreen2: #0b4400;
+$theme-blue1: #0066ff;
 
 /* 新增红色变量定义 */
 $red: #ff0000; /* 定义红色变量 */
@@ -37,7 +37,7 @@ $headings-color: $theme-milkcoffee2; /* 标题字体颜色 */
 $link-color: $red; /* 默认超链接颜色 */
 
 /* 代码样式 */
-$code-color: $theme-mocha2; /* 代码文本颜色 */
+$code-color: $theme-mocha1; /* 代码文本颜色 */
 $code-bg: $theme-milkcoffee0; /* 代码背景颜色 */
 $code-block-bg-alpha: -0.8; /* 代码块背景的透明度 */
 $background-color: $theme-milkcoffee0; /* 页面背景色 */
@@ -83,17 +83,17 @@ body {
 
 /* 2. 列表项的行间距调整 */
 ul, ol {
-  line-height: 1.5; /* 列表项的行间距设置为 1.5 */
+  line-height: 1.5; /* 列表项的行间距设置为 2 */
 }
 
 /* 3. 超链接颜色和悬停颜色调整 */
 a {
-  color: #0066cc; /* 超链接的颜色设置为蓝色 */
+  color: #0066ff; /* 超链接的颜色设置为蓝色 */
   text-decoration: none; /* 去除默认的下划线 */
 }
 
 a:hover {
-  color: #006400; /* 悬停时的颜色设置为深绿色 */
+  color: #ff0000; /* 悬停时的颜色设置为红色 */
 }
 
 /* 4. 代码样式高亮调整，背景为浅灰色，github 风格 */

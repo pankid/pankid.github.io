@@ -42,8 +42,6 @@ website:
         href: blog.qmd
       - text: "Codes"
         href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
       - text: "CV"
         href: about.qmd
       - sidebar:view
