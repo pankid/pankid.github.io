@@ -1,6 +1,7 @@
 ---
 title: "pankid"
 image: images/wukong5.jpeg
+lang: zh
 listing: 
   contents: posts
   sort: 

@@ -1,8 +1,9 @@
 ---
 title: "Welcome To My Blog"
 author: "pankid"
-date: "2025-08-01"
-date-format: "YYYY-MM-DD dddd HH:mm"
+lang: zh
+date: "2025-08-01 09:00"
+date-format: "YYYY年M月D日 dddd A HH:mm"
 categories: [news]
 ---
 
