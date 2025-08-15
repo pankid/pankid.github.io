@@ -177,7 +177,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫。  我想养一只像下面这样的猫。 \n\n\n\n\n 回到顶部"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。\n\n关于这只猫，还有其他的图片，可以在Pictures中查看。\n\n\n\n\n 回到顶部"
   },
   {
     "objectID": "Q&A.html",
@@ -189,13 +189,13 @@
   {
     "objectID": "view/pictures/pictures.html",
     "href": "view/pictures/pictures.html",
-    "title": "pankid",
+    "title": "师傅的小猫——悟空(wukong)",
     "section": "",
-    "text": "Back to top",
+    "text": "“悟空”本是一只流浪小猫，被骑车旅行的“师傅”收留了之后，便一起踏上了旅途。（详情可见视频“喀纳斯捡了一只狸花小猫”）\n我的头像，以及下面的几张图片，都出自“师傅”发布的视频。（图片出处：“赵翁失亭 焉知非福 又是被臭喵感动的一天”）\n     \n\n\n\n 回到顶部",
     "crumbs": [
       "View",
       "Pictures",
-      "Pictures"
+      "师傅的小猫——悟空(wukong)"
     ]
   }
 ]
