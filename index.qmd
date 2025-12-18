@@ -1,5 +1,5 @@
 ---
-title: "pankid1412"
+title: "pankid"
 image: images/wukong5.jpeg
 lang: zh
 listing: 
