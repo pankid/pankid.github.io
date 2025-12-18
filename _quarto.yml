@@ -1,0 +1,88 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+language: 
+  search-text-placeholder: "Search..."
+
+website:
+  page-navigation: true
+  title: "pankid"
+  site-url: https://pankid.github.io
+  favicon: images/wukong5-site.jpg
+  search: 
+    location: navbar
+    type: textbox
+    copy-button: true
+    show-item-context: tree
+  reader-mode: true                                           # 启用阅读模式
+  bread-crumbs: true                                          # 引导用户了解正在阅读的内容处于网站什么位置
+  back-to-top-navigation: true                                # 页面底部加一个“返回顶部”按钮
+  repo-url: https://github.com/pankid/pankid.github.io
+  repo-actions: [edit, source, issue]
+  page-footer: 
+    center: 
+      "“我们在日常生活中度过的每一天，实际上也许是连续发生的奇迹也说不定呢。”"
+    left: |
+      [pankid](https://pankid.netlify.app)<br>
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+
+  navbar: 
+    logo: images/wukong5.jpeg
+    background: primary
+    pinned: true
+    search: true
+    left: 
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Books"
+        href: books.qmd
+      - text: "Blogs"
+        href: blog.qmd
+      - text: "Codes"
+        href: codes.qmd
+      - text: "CV"
+        href: about.qmd
+      - sidebar:views
+      - text: "More"
+        menu: 
+          - text: "Help"
+            href: help.qmd
+          - text: "Q&A"
+            href: Q&A.qmd
+          - text: "Ask a Question"
+            href: https://github.com/pankid/pankid.github.io/issues
+    right: 
+      - icon: github
+        href: https://github.com
+      - icon: google
+        href: https://www.google.com
+      - icon: youtube
+        href: https://www.youtube.com
+  
+  sidebar: 
+    - id: views
+      title: "Views"
+      style: "floating"
+      background: light
+      collapse-level: 3
+      alignment: center
+      contents: views
+
+    - title: "Publications"
+      contents: 
+        - publications.qmd
+    - title: "Books"
+      contents: 
+        - books.qmd
+
+format:
+  html:
+    theme: styles.scss
+    toc: true            # 启用目录
+    toc-position: right  # 将目录放置在页面的右侧
+    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细

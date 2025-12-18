@@ -1,0 +1,47 @@
+---
+title: "pankid"
+image: images/wukong5.jpeg
+lang: zh
+listing: 
+  contents: posts
+  sort: 
+    - "date desc"
+    - "title desc"
+  sort-ui: true
+  filter-ui: true
+  type: default
+  date-format: "YYYY-MM-DD dddd HH:mm"
+  categories: true
+page-layout: full
+title-block-banner: false
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 16em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: pankid1412@163.com
+      href: mailto:pankid1412@163.com
+    - icon: github
+      text: pankid
+      href: https://github.com/pankid
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com
+    - icon: bookmarks
+      text: 连享会
+      href: https://www.lianxh.cn
+    - icon: file-person
+      text: CV
+      href: CV.pdf  
+---
+
+::: {#hero-heading}
+
+# 欢迎来到我的个人主页！
+
+我是pankid
+
+:::

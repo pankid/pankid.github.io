@@ -1,0 +1,47 @@
+---
+title: "pankid"
+image: images/wukong5.jpeg
+
+about: 
+  template: trestles
+  image-width: 20em
+  image-shape: rounded
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com
+    - icon: mailbox
+      text: Gmail
+      href: https://mail.google.com
+
+---
+
+# 欢迎来到我的个人主页！
+
+## 个人简介
+
+是个人
+
+## 关注领域
+
+社会学（Sociology）、经济学（Economics）
+
+## 兴趣技能
+
+数据分析（Data Analysis）  
+Python、Stata、R、Markdown、Quarto
+
+## 教育经历
+
+- 2025~????：????
+- 2021~2025：大学（University）
+- 2018~2021：高中（High school）
