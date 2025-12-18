@@ -16,6 +16,8 @@ Since this post doesn't specify an explicit `image`, the first image in the post
 我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。  
 ![我的头像](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/wukong1.jpeg "我的头像")
 
+![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/cat.png)
+
 关于这只猫，还有其他的图片，可以在[Pictures](https://pankid.github.io/view/pictures/pictures.html)中查看。
 
 {{< video https://youtu.be/-NCHV1BYLx4?si=SZX5h_DbtKVHRpkH >}}

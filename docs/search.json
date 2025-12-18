@@ -23,7 +23,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。\n\n关于这只猫，还有其他的图片，可以在Pictures中查看。\n\n\n\n\n 回到顶部"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。\n\n\n关于这只猫，还有其他的图片，可以在Pictures中查看。\n\n\n\n\n 回到顶部"
   },
   {
     "objectID": "help.html",
