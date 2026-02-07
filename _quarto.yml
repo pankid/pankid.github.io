@@ -29,7 +29,7 @@ website:
     left: |
       [pankid](https://pankid.netlify.app)<br>
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
+      Made with [Quarto](https://quarto.org)<br>
 
   navbar: 
     logo: images/wukong5.jpeg

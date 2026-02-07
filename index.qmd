@@ -22,8 +22,8 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: pankid1412@163.com
-      href: mailto:pankid1412@163.com
+      text: pankid4250@gmail.com
+      href: mailto:pankid4250@gmail.com
     - icon: github
       text: pankid
       href: https://github.com/pankid
