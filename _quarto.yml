@@ -69,7 +69,7 @@ website:
       title: "Gallery"
       style: "floating"
       background: light
-      collapse-level: 3
+      collapse-level: 4
       alignment: center
       contents: gallery
 
