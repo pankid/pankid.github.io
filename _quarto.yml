@@ -40,15 +40,19 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "Books"
+        icon: book
         href: books.qmd
       - text: "Blogs"
         href: blog.qmd
       - text: "Codes"
+        icon: code
         href: codes.qmd
       - text: "CV"
+        icon: file-person
         href: about.qmd
 #      - sidebar:gallery
       - text: "Gallery"
+        icon: camera
         menu:
           - text: "Photography"
             href: gallery\photography\photography.qmd
