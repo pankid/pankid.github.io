@@ -5,6 +5,17 @@ lang: zh
 date: "2026-06-01 19:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
 categories: [photography]
+slide-format: revealjs
 ---
+
+具体拍摄的配置可以看[pre](pre/){target="_blank"}演示文稿。
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="pre/"></iframe>
+```
+
+</div>
 
 ![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/photography/_DSC0386.JPG)
