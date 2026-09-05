@@ -67,84 +67,6 @@
     ]
   },
   {
-    "objectID": "gallery/photography/examples/creating-slides-2.html#getting-up",
-    "href": "gallery/photography/examples/creating-slides-2.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/examples/creating-slides-2.html#breakfast",
-    "href": "gallery/photography/examples/creating-slides-2.html#breakfast",
-    "title": "Habits",
-    "section": "Breakfast",
-    "text": "Breakfast\n\nEat eggs\nDrink coffee",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/examples/creating-slides-2.html#dinner",
-    "href": "gallery/photography/examples/creating-slides-2.html#dinner",
-    "title": "Habits",
-    "section": "Dinner",
-    "text": "Dinner\n\nEat spaghetti\nDrink wine",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/examples/creating-slides-2.html#going-to-sleep",
-    "href": "gallery/photography/examples/creating-slides-2.html#going-to-sleep",
-    "title": "Habits",
-    "section": "Going to sleep",
-    "text": "Going to sleep\n\nGet in bed\nCount sheep",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/examples/creating-slides-1.html#getting-up",
-    "href": "gallery/photography/examples/creating-slides-1.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/examples/creating-slides-1.html#going-to-sleep",
-    "href": "gallery/photography/examples/creating-slides-1.html#going-to-sleep",
-    "title": "Habits",
-    "section": "Going to sleep",
-    "text": "Going to sleep\n\nGet in bed\nCount sheep",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Examples",
-      "Habits"
-    ]
-  },
-  {
     "objectID": "gallery/videos/videos.html",
     "href": "gallery/videos/videos.html",
     "title": "pankid",
@@ -341,7 +263,7 @@
     "href": "gallery/photography/photography.html#creating-slides",
     "title": "pankid’s Photography",
     "section": "Creating Slides",
-    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: ?meta:slide-format\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: ?meta:slide-format\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: ?meta:slide-format\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: ?meta:slide-format\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
+    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
     "crumbs": [
       "Gallery",
       "Photography",
