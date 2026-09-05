@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pankid.github.io/views/videos/videos.html</loc>
-    <lastmod>2026-01-12T15:25:21.339Z</lastmod>
-  </url>
-  <url>
     <loc>https://pankid.github.io/Q&amp;A.html</loc>
     <lastmod>2026-01-12T15:25:21.290Z</lastmod>
   </url>
@@ -17,12 +13,20 @@
     <lastmod>2026-01-12T15:25:21.319Z</lastmod>
   </url>
   <url>
+    <loc>https://pankid.github.io/gallery/pictures/pictures.html</loc>
+    <lastmod>2026-01-12T15:25:21.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/p1/p1.html</loc>
+    <lastmod>2026-09-05T07:33:08.940Z</lastmod>
+  </url>
+  <url>
     <loc>https://pankid.github.io/books.html</loc>
     <lastmod>2026-01-12T15:25:21.290Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/about.html</loc>
-    <lastmod>2026-01-12T15:25:21.290Z</lastmod>
+    <lastmod>2026-09-05T07:28:13.031Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/blog.html</loc>
@@ -33,15 +37,19 @@
     <lastmod>2026-01-12T15:25:21.290Z</lastmod>
   </url>
   <url>
+    <loc>https://pankid.github.io/gallery/photography/p2/p2.html</loc>
+    <lastmod>2026-09-05T07:33:10.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/videos/videos.html</loc>
+    <lastmod>2026-01-12T15:25:21.339Z</lastmod>
+  </url>
+  <url>
     <loc>https://pankid.github.io/index.html</loc>
     <lastmod>2026-02-07T11:39:13.825Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/publications.html</loc>
     <lastmod>2026-01-12T15:25:21.329Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/views/pictures/pictures.html</loc>
-    <lastmod>2026-01-12T15:25:21.332Z</lastmod>
   </url>
 </urlset>

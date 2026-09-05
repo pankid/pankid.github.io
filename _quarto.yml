@@ -47,7 +47,7 @@ website:
         href: codes.qmd
       - text: "CV"
         href: about.qmd
-      - sidebar:views
+      - sidebar:gallery
       - text: "More"
         menu: 
           - text: "Help"
@@ -65,13 +65,13 @@ website:
         href: https://www.youtube.com
   
   sidebar: 
-    - id: views
-      title: "Views"
+    - id: gallery
+      title: "Gallery"
       style: "floating"
       background: light
       collapse-level: 3
       alignment: center
-      contents: views
+      contents: gallery
 
     - title: "Publications"
       contents: 
