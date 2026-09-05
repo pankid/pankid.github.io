@@ -37,7 +37,7 @@ pankid
 
 ## 兴趣技能
 
-爱好摄影Photography（风光）  
+爱好风光摄影（Photography）  
 数据分析（Data Analysis）  
 Python、Stata、R、Markdown、Quarto
 

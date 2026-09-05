@@ -5,6 +5,7 @@ project:
 execute:
   freeze: auto
 
+lang: zh-CN
 language: 
   search-text-placeholder: "Search..."
 
