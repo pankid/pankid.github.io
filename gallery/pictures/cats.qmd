@@ -1,0 +1,10 @@
+---
+title: "Cats"
+author: "pankid"
+lang: zh
+date: "2025-08-08 08:08"
+date-format: "YYYY年M月D日 dddd A HH:mm"
+categories: [picture]
+---
+
+![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/IMG_CAT.jpeg)
