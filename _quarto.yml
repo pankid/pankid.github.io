@@ -38,35 +38,43 @@ website:
     search: true
     left: 
       - text: "Publications"
+        icon: journals
         href: publications.qmd
       - text: "Books"
         icon: book
         href: books.qmd
       - text: "Blogs"
+        icon: file-post
         href: blog.qmd
       - text: "Codes"
         icon: code
         href: codes.qmd
       - text: "CV"
-        icon: file-person
+        icon: person-vcard
         href: about.qmd
 #      - sidebar:gallery
       - text: "Gallery"
         icon: camera
         menu:
           - text: "Photography"
+            icon: camera-fill
             href: gallery\photography\photography.qmd
           - text: "Pictures"
+            icon: image
             href: gallery\pictures\cats.qmd
           - text: "Videos"
+            icon: play-btn
             href: gallery\videos\videos.qmd
       - text: "More"
         menu: 
           - text: "Help"
+            icon: info-circle
             href: help.qmd
           - text: "Q&A"
+            icon: question-circle
             href: Q&A.qmd
           - text: "Ask a Question"
+            icon: chat-dots
             href: https://github.com/pankid/pankid.github.io/issues
     right: 
       - icon: github
