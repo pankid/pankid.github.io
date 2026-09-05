@@ -47,7 +47,15 @@ website:
         href: codes.qmd
       - text: "CV"
         href: about.qmd
-      - sidebar:gallery
+#      - sidebar:gallery
+      - text: "Gallery"
+        menu:
+          - text: "Photography"
+            href: gallery\photography\photography.qmd
+          - text: "Pictures"
+            href: gallery\pictures\cats.qmd
+          - text: "Videos"
+            href: gallery\videos\videos.qmd
       - text: "More"
         menu: 
           - text: "Help"
