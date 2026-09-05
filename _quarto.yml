@@ -66,6 +66,7 @@ website:
             icon: play-btn
             href: gallery\videos\videos.qmd
       - text: "More"
+        icon: three-dots
         menu: 
           - text: "Help"
             icon: info-circle
