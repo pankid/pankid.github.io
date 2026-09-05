@@ -8,12 +8,12 @@ categories: [photography]
 slide-format: revealjs
 ---
 
-具体拍摄的配置可以看[pre](gallery/photography/pre/){target="_blank"}演示文稿。
+具体拍摄的配置可以看[pre](docs/gallery/photography/pre/){target="_blank"}演示文稿。
 
 <div>
 
 ```{=html}
-<iframe class="slide-deck" src="gallery/photography/pre/" style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc;"></iframe>
+<iframe class="slide-deck" src="docs/gallery/photography/pre/" style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc;"></iframe>
 ```
 
 </div>
