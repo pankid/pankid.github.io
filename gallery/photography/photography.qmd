@@ -18,3 +18,5 @@ categories: [photography]
 </div>
 
 ![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/photography/_DSC0386.JPG)
+
+{{< include ../_creating-slides-reveal.md >}}
