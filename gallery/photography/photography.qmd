@@ -13,7 +13,7 @@ slide-format: revealjs
 <div>
 
 ```{=html}
-<iframe class="slide-deck" src="pre/"></iframe>
+<iframe class="slide-deck" src="pre/" style="width: 100%; aspect-ratio: 16 / 9; border: 1px solid #ccc;"></iframe>
 ```
 
 </div>
