@@ -50,7 +50,7 @@
       }
 
       const options = {
-        valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+        valueNames: ['listing-image','listing-title','listing-subtitle','listing-author','listing-date','listing-description','listing-categories','listing-reading-time','listing-word-count','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
         
         searchColumns: ["listing-categories"],
       };
@@ -626,6 +626,31 @@
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="排序方式" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">排序方式</option>
+      <option value="index" data-direction="asc">默认</option>
+      <option value="listing-title" data-direction="asc">
+        标题
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        日期 - 日期升序
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        日期 - 日期降序
+      </option>
+      <option value="listing-author" data-direction="asc">
+        作者
+      </option>
+      <option value="listing-file-modified-sort" data-direction="asc">
+        修改时间 - 日期升序
+      </option>
+      <option value="listing-file-modified-sort" data-direction="desc">
+        修改时间 - 日期降序
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="筛选">

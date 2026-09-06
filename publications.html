@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-author','listing-date','listing-description','listing-categories','listing-reading-time','listing-word-count','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
@@ -436,6 +436,12 @@ window.Quarto = {
       <option value="listing-author" data-direction="asc">
         作者
       </option>
+      <option value="listing-file-modified-sort" data-direction="asc">
+        修改时间 - 日期升序
+      </option>
+      <option value="listing-file-modified-sort" data-direction="desc">
+        修改时间 - 日期降序
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -444,7 +450,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1754038800000" data-listing-file-modified-sort="1788669040212" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1754038800000" data-listing-file-modified-sort="1788671772150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
 <div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="posts/welcome/Python.jpg"  class="thumbnail-image card-img"/></p>
@@ -473,6 +479,13 @@ window.Quarto = {
 </div>
 <div class="listing-author">
 pankid
+</div>
+<div class="listing-reading-time">1 分钟</div>
+<div class="metadata-value listing-word-count">
+38 字
+</div>
+<div class="metadata-value listing-file-modified">
+2026-09-06 星期日 05:16
 </div>
 </a>
 </div>
