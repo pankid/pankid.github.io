@@ -9,3 +9,21 @@ listing:
   date-format: "YYYY-MM-DD dddd HH:mm"
   categories: numbered
   page-size: 10
+  fields: 
+    - image
+    - title
+    - subtitle
+    - author
+    - date
+    - description
+    - categories
+    - reading-time
+    - word-count
+    - file-modified
+
+#  field-display-names:
+#    author: "作者"
+#    date: "发布日期"
+#    reading-time: "阅读时长"
+#    word-count: "总字数"
+#    file-modified: "更新日期"

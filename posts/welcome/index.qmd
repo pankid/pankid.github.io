@@ -6,9 +6,6 @@ author: "pankid"
 lang: zh
 date: "2025-08-01 09:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
-word-count: true
-reading-time: true
-file-modified: true
 categories: [news]
 ---
 
@@ -23,7 +20,7 @@ Since this post doesn't specify an explicit `image`, the first image in the post
 
 ![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/IMG_CAT.jpeg)
 
-![](images/cat.png)
+![](images/IMG_CAT.jpeg)
 
 关于这只猫，还有其他的图片，可以在[Pictures](https://pankid.github.io/view/pictures/pictures.html)中查看。
 
