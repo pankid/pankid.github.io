@@ -20,8 +20,6 @@ Since this post doesn't specify an explicit `image`, the first image in the post
 
 ![](https://pankid-tuchuang.oss-cn-shanghai.aliyuncs.com/IMG_CAT.jpeg)
 
-![](images/IMG_CAT.jpeg)
-
 关于这只猫，还有其他的图片，可以在[Pictures](https://pankid.github.io/view/pictures/pictures.html)中查看。
 
 {{< video https://youtu.be/-NCHV1BYLx4?si=SZX5h_DbtKVHRpkH >}}
