@@ -5,6 +5,9 @@ lang: zh
 page-layout: full
 title-block-banner: false
 
+metadata-files: 
+  - _listing_defaults.yml
+
 about:
   id: hero-heading
   template: trestles
