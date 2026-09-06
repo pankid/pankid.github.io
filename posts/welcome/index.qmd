@@ -1,9 +1,14 @@
 ---
 title: "Welcome To My Blog"
+subtitle: "欢迎"
+abstract: "关于主页的说明"
 author: "pankid"
 lang: zh
 date: "2025-08-01 09:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
+word-count: true
+reading-time: true
+file-modified: true
 categories: [news]
 ---
 
