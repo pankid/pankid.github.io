@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+metadata-files: 
+  - _listing_defaults.yml
+
 execute:
   freeze: auto
 

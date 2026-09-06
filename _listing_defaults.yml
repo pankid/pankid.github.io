@@ -1,0 +1,11 @@
+listing: 
+  contents: posts
+  sort: 
+    - "date desc"
+    - "title desc"
+  sort-ui: true
+  filter-ui: true
+  type: default
+  date-format: "YYYY-MM-DD dddd HH:mm"
+  categories: numbered
+  page-size: 10
