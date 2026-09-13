@@ -8,11 +8,22 @@ project:
 execute:
   freeze: auto
 
+# theme: 
+#   light: flatly
+#   dark: darkly
+
 lang: zh-CN
 language: 
   search-text-placeholder: "Search..."
 
 website:
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**欢迎访问我的个人网站！**"
+    type: primary
+    position: below-navbar
+  google-analytics: "G-CGSQJSRMXB"
   page-navigation: true
   title: "pankid"
   site-url: https://pankid.github.io
@@ -76,10 +87,10 @@ website:
             icon: info-circle
             href: help.qmd
           - text: "Q&A"
-            icon: question-circle
+            icon: chat-dots
             href: Q&A.qmd
           - text: "Ask a Question"
-            icon: chat-dots
+            icon: question-circle
             href: https://github.com/pankid/pankid.github.io/issues
     right: 
       - icon: github
@@ -113,3 +124,4 @@ format:
     toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
     reading-time: true        # 显示阅读时间
     word-count: true          # 显示字数统计
+    respect-user-color-scheme: true
