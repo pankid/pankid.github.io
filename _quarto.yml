@@ -21,8 +21,8 @@ website:
     icon: info-circle
     dismissable: true
     content: "**欢迎访问pankid的个人网站!**"
-    type: secondary
-    position: above-navbar
+    type: success
+    position: below-navbar
   google-analytics: "G-CGSQJSRMXB"
 
   page-navigation: true
