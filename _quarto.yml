@@ -20,7 +20,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**欢迎访问我的个人网站！**"
+    content: "**欢迎访问pankid的个人网站!**"
     type: primary
     position: below-navbar
   google-analytics: "G-CGSQJSRMXB"
