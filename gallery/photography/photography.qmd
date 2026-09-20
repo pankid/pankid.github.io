@@ -1,5 +1,6 @@
 ---
 title: "pankid's Photography"
+subtitle: "快门连接大脑，连拍代替思考"
 author: "pankid"
 lang: zh
 date: "2026-06-01 19:00"

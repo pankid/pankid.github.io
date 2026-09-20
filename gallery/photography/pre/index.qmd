@@ -1,6 +1,6 @@
 ---
-title: "Nikon Zf出片攻略"
-subtitle: "拍摄风光与人像的参数配置"
+title: "Nikon出片攻略"
+subtitle: "年少有为用尼康，摄影从此不慌张！不管天气好不好，尼康在手没烦恼"
 author: 
   - name: pankid
     email: pankid4250@gmail.com
@@ -10,7 +10,7 @@ format:
   revealjs:
     theme: serif
     # default,dracula,serif,simple,sky
-    footer: "作者：pankid · 标题：Nikon Zf出片攻略 · 日期：2026-08-30"
+    footer: "作者：pankid · 标题：Nikon出片攻略 · 日期：2026-08-30"
     logo: images/nikon.png
     incremental: true
     navigation-mode: vertical
