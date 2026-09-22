@@ -1,0 +1,17 @@
+---
+title: "星湖路天桥"
+author: "pankid"
+date: "2026-09-19 19:00"
+date-format: "YYYY年M月D日 dddd A HH:mm"
+categories: [photography]
+---
+
+# 星湖路天桥三角梅
+
+星湖路有两座天桥，照片可见 @tbl-letters。
+
+| 横版 | 竖版 |
+|:----:|:----:|
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005533036__DSC0004.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005574795__DSC0005.jpg) |
+
+: 星湖路天桥三角梅 {#tbl-letters}
