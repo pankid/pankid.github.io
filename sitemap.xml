@@ -1,79 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pankid.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-09-20T13:46:28.795Z</lastmod>
-  </url>
-  <url>
     <loc>https://pankid.github.io/about.html</loc>
-    <lastmod>2026-09-20T13:46:28.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/pictures/cats.html</loc>
-    <lastmod>2026-09-20T13:46:28.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/p1/p1.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-2.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-1.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/videos/videos.html</loc>
-    <lastmod>2026-09-20T13:46:28.792Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/publications.html</loc>
-    <lastmod>2026-09-20T13:46:28.795Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/Q&amp;A.html</loc>
-    <lastmod>2026-09-20T13:46:28.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/blog.html</loc>
-    <lastmod>2026-09-20T13:46:28.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/index.html</loc>
-    <lastmod>2026-09-20T13:46:28.793Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/books.html</loc>
-    <lastmod>2026-09-20T13:46:28.759Z</lastmod>
+    <lastmod>2026-09-22T15:03:55.938Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/codes.html</loc>
-    <lastmod>2026-09-20T13:46:28.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/p2/p2.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-3.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/pre/index.html</loc>
-    <lastmod>2026-09-20T13:46:28.791Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pankid.github.io/gallery/photography/photography.html</loc>
-    <lastmod>2026-09-20T13:46:28.790Z</lastmod>
+    <lastmod>2026-09-22T15:03:55.938Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/gallery/pictures/pictures.html</loc>
-    <lastmod>2026-09-20T13:46:28.791Z</lastmod>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/p1/xinghu.html</loc>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/pre/index.html</loc>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/p2/p2.html</loc>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-3.html</loc>
+    <lastmod>2026-09-22T15:03:55.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/publications.html</loc>
+    <lastmod>2026-09-22T15:03:55.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/posts/welcome/index.html</loc>
+    <lastmod>2026-09-22T15:03:55.975Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/books.html</loc>
+    <lastmod>2026-09-22T15:03:55.938Z</lastmod>
   </url>
   <url>
     <loc>https://pankid.github.io/help.html</loc>
-    <lastmod>2026-09-20T13:46:28.792Z</lastmod>
+    <lastmod>2026-09-22T15:03:55.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/index.html</loc>
+    <lastmod>2026-09-22T15:03:55.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/blog.html</loc>
+    <lastmod>2026-09-22T15:03:55.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-1.html</loc>
+    <lastmod>2026-09-22T15:03:55.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/examples/creating-slides-2.html</loc>
+    <lastmod>2026-09-22T15:03:55.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/photography.html</loc>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/photography/p1/p1.html</loc>
+    <lastmod>2026-09-22T15:03:55.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/videos/videos.html</loc>
+    <lastmod>2026-09-22T15:03:55.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/gallery/pictures/cats.html</loc>
+    <lastmod>2026-09-22T15:03:55.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pankid.github.io/Q&amp;A.html</loc>
+    <lastmod>2026-09-22T15:03:55.938Z</lastmod>
   </url>
 </urlset>
