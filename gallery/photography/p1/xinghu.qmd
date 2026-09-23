@@ -9,7 +9,7 @@ categories: [photography]
 # 星湖路天桥三角梅
 
 星湖路有两座天桥，照片可见 @tbl-letters。  
-原图可见https://cloudflare-imgbed-cea.pages.dev/browse/Photography
+原图可见[Photography](https://cloudflare-imgbed-cea.pages.dev/browse/Photography)
 
 | 横版 | 竖版 |
 |:----:|:----:|
@@ -23,12 +23,10 @@ categories: [photography]
   <tr>
     <td><img src="https://placehold.co/600x400/png" alt="Placeholder image"/></td>
     <td style="vertical-align: top">vertical-align: top</td>
-    <td style="vertical-align: middle">vertical-align: middle</td>
-    <td style="vertical-align: bottom">vertical-align: bottom</td>
   </tr>
   <tr>
-    <td style="text-align: left">text-align: left</td>
-    <td><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005599125__DSC0006.jpg"/>vertical-align: middle</td>
+    <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005573492__DSC0017.jpg"/></td>
+    <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005599125__DSC0006.jpg"/></td>
   </tr>
   <tr>
     <td style="text-align: center">text-align: center</td>
