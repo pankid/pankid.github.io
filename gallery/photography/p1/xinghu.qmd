@@ -33,8 +33,8 @@ categories: [photography]
   <caption>这是表格标题</caption>
   <thead>
     <tr>
-      <th>表头1</th>
-      <th>表头2</th>
+      <th style="text-align: center">表头1</th>
+      <th style="text-align: center">表头2</th>
     </tr>
   </thead>
   <tbody>
