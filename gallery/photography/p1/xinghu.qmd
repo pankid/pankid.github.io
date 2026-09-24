@@ -1,19 +1,29 @@
 ---
-title: "星湖路天桥"
+title: "南宁星湖路天桥"
 author: "pankid"
 date: "2026-09-19 19:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
 categories: [photography]
 ---
 
-# 星湖路天桥三角梅
+# 南宁星湖路天桥三角梅
 
+拍摄于2026年9月19日。
 星湖路有两座天桥，照片可见 @tbl-letters。  
 原图可见[Photography](https://cloudflare-imgbed-cea.pages.dev/browse/Photography)
 
-| 横版 | 竖版 |
+|  |  |
 |:----:|:----:|
-| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005533036__DSC0004.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005574795__DSC0005.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005533036__DSC0004.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005599125__DSC0006.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005608660__DSC0008.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005575393__DSC0010.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006157394__DSC0021.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006163083__DSC0027.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006161691__DSC0028.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006160004__DSC0035.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005948987__DSC0042.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005935146__DSC0048.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005826518__DSC0052.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005885782__DSC0054.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005574795__DSC0005.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005573492__DSC0017.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005685255__DSC0018.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006165086__DSC0026.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790006159762__DSC0037.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005940987__DSC0045.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005938157__DSC0051.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005879155__DSC0053.jpg) |
 
 : 星湖路天桥三角梅 {#tbl-letters}
 
@@ -22,7 +32,7 @@ categories: [photography]
 <table>
   <tr>
     <td><img src="https://placehold.co/600x400/png" alt="Placeholder image"/></td>
-    <td style="vertical-align: top">vertical-align: top</td>
+    <td style="vertical-align: top">vertical-align: top意思是可垂直居中</td>
   </tr>
   <tr>
     <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005573492__DSC0017.jpg"/></td>
