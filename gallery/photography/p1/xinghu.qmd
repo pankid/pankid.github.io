@@ -30,20 +30,29 @@ categories: [photography]
 
 ```{=html}
 <table>
-  <tr>
-    <td><img src="https://placehold.co/600x400/png" alt="Placeholder image"/></td>
-    <td style="vertical-align: top">vertical-align: top意思是可垂直居中</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005573492__DSC0017.jpg"/></td>
-    <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005599125__DSC0006.jpg"/></td>
-  </tr>
-  <tr>
-    <td style="text-align: center">text-align: center</td>
-  </tr>
-  <tr>
-    <td style="text-align: right">text-align: right</td>
-  </tr>
+  <caption>这是表格标题</caption>
+  <thead>
+    <tr>
+      <th>表头1</th>
+      <th>表头2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://placehold.co/600x400/png" alt="Placeholder image"/></td>
+      <td style="vertical-align: top">vertical-align: top意思是可垂直居中</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005573492__DSC0017.jpg"/></td>
+      <td style="vertical-align: middle"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/1790005599125__DSC0006.jpg"/></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">text-align: center</td>
+    </tr>
+    <tr>
+      <td style="text-align: right">text-align: right</td>
+    </tr>
+  </tbody>
 </table>
  
 
