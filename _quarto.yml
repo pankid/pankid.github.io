@@ -119,6 +119,10 @@ website:
       contents: 
         - books.qmd
 
+comments: 
+  giscus: 
+    repo: pankid/pankid.github.io
+
 format:
   html:
     theme: styles.scss
