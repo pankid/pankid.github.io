@@ -119,9 +119,9 @@ website:
       contents: 
         - books.qmd
 
-comments: 
-  giscus: 
-    repo: pankid/pankid.github.io
+# comments: 
+#   giscus: 
+#     repo: pankid/pankid.github.io
 
 # <script src="https://giscus.app/client.js"
 #         data-repo="pankid/pankid.github.io"
