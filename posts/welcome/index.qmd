@@ -11,6 +11,31 @@ categories: [news]
 
 This is the first post in a Quarto blog. Welcome!
 
+::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+:::
+
+::: {.callout-warning}
+Callouts provide a simple way to attract attention, for example, to this warning.
+:::
+
+::: {.callout-important}
+This is an important callout. You can use callouts to highlight important information in your posts.
+:::
+
+::: {.callout-tip}
+## Tip with Title
+
+This is an example of a callout with a title.
+:::
+
+::: {.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+
 ![](Python.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
