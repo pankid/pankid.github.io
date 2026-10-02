@@ -5,25 +5,6 @@ $theme-black: #000000;
 $theme-white: white;
 $theme-grey: #aaaaaa;
 
-$theme-purple3: #88398A;
-$theme-purple4: #9d709e;
-$theme-purple5: #562457;
-$theme-purplebrown1: #b996a4;
-$theme-purplebrown2: #7c6c84;
-$theme-darkcoffee1: #570e06;
-$theme-darkcoffee2: #78504b;
-$theme-darkcoffee3: #632e0d;
-$theme-milkcoffee0: #d4d4d4;
-$theme-milkcoffee3: #cca79f;
-$theme-milkcoffee2: #b98f68;
-$theme-milkcoffee1: #9e736a;
-$theme-mocha1: #ff4400;
-$theme-mocha2: #a13300;
-$theme-mocha3: #813200;
-$theme-yellow: #ffae00;
-$theme-orange: #cc5200;
-$theme-darkgreen1: #006d10;
-$theme-darkgreen2: #0b4400;
 $theme-blue1: #0066ff;
 
 /* 新增红色变量定义 */
@@ -34,32 +15,10 @@ $blue: #0000ff;
 
 /* 主要背景和字体颜色 */
 $body-bg: $theme-white;
-$body-color: $theme-darkcoffee1;
+$body-color: $theme-black;
 /* 正文字体颜色 */
-$headings-color: $theme-milkcoffee2;
+$headings-color: $theme-blue1;
 /* 标题字体颜色 */
-$link-color: $red;
-/* 默认超链接颜色 */
-
-/* 代码样式 */
-$code-color: $theme-mocha1;
-/* 代码文本颜色 */
-$code-bg: $theme-milkcoffee0;
-/* 代码背景颜色 */
-$code-block-bg-alpha: -0.8;
-/* 代码块背景的透明度 */
-$background-color: $theme-milkcoffee0;
-/* 页面背景色 */
-
-/* 导航栏 */
-$navbar-bg: $theme-blue1;
-/* 导航栏背景颜色 */
-
-/* 提示框颜色 */
-$callout-color-note: $theme-darkgreen2;
-/* 提示框的注释颜色 */
-$callout-color-tip: $theme-darkgreen1;
-/* 提示框的小贴士颜色 */
 
 /* 字体设置 */
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
@@ -84,9 +43,6 @@ $font-prompt: 'Prompt', sans-serif;
 $font-size-root: 16px;
 /* 根字体大小 */
 
-/* 链接颜色 */
-$link-color: $red;
-/* 链接的颜色为红色 */
 $link-hover-color: $blue;
 /* 链接悬停时的颜色 */
 
@@ -136,25 +92,27 @@ code {
 
 /* 标题样式 */
 h1 {
-  color: $theme-darkcoffee3;
+  color: $theme-blue1;
   font-family: $font-pt;
   font-size: 40px;
 }
 
 h2 {
-  color: $theme-darkcoffee3;
+  color: $theme-blue1;
   font-family: $font-pt;
   font-size: 30px;
 }
 
-h3,
-h4 {
-  color: $theme-mocha1;
+h3 {
+  color: $theme-blue1;
   font-family: $font-pt;
+  font-size: 25px;
 }
 
 h4 {
-  color: $theme-darkgreen1;
+  color: $theme-blue1;
+  font-family: $font-pt;
+  font-size: 20px;
 }
 
 /* 代码块和推送样式 */

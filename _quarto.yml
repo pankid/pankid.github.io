@@ -8,10 +8,6 @@ project:
 execute:
   freeze: auto
 
-# theme: 
-#   light: flatly
-#   dark: darkly
-
 lang: zh-CN
 language: 
   search-text-placeholder: "Search..."
@@ -144,7 +140,7 @@ format:
   html:
     theme:
       light: [cerulean, styles.scss]
-      dark: [darkly, styles.scss]
+      dark: darkly
     toc: true            # 启用目录
     toc-position: right  # 将目录放置在页面的右侧
     toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
