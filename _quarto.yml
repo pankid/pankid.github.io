@@ -143,7 +143,7 @@ website:
 format:
   html:
     theme:
-      light: [default, styles.scss]
+      light: [cerulean, styles.scss]
       dark: [darkly, styles.scss]
     toc: true            # 启用目录
     toc-position: right  # 将目录放置在页面的右侧
