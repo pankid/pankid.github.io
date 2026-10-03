@@ -58,7 +58,7 @@
     "href": "gallery/photography/p1/xinghu.html",
     "title": "南宁星湖路天桥",
     "section": "",
-    "text": "南宁星湖路天桥三角梅\n拍摄于2026年9月19日。 星湖路有两座天桥，照片可见 表 1。\n原图可见Photography\n\n\n\n表 1: 星湖路天桥三角梅\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是表格标题\n\n\n表头1\n表头2\n\n\n\n\n\nvertical-align: top意思是可垂直居中\n\n\n\n\n\n\ntext-align: center\n\n\n\ntext-align: right\n\n\n\n\n\n\n\n\n 回到顶部",
+    "text": "南宁星湖路天桥三角梅\n拍摄于2026年9月19日。 星湖路有两座天桥，照片可见 表 1。\n原图可见Photography/星湖路\n\n\n\n表 1: 星湖路天桥三角梅\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是表格标题\n\n\n表头1\n表头2\n\n\n\n\n\nvertical-align: top意思是可垂直居中\n\n\n\n\n\n\ntext-align: center\n\n\n\ntext-align: right\n\n\n\n\n\n\n\n\n 回到顶部",
     "crumbs": [
       "Gallery",
       "Photography",
@@ -146,11 +146,25 @@
     ]
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/荔滨大道/荔滨大道.html",
+    "href": "posts/荔滨大道/荔滨大道.html",
+    "title": "南宁荔滨大道",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\n注记\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n警告\n\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n重要\n\n\n\nThis is an important callout. You can use callouts to highlight important information in your posts.\n\n\n\n\n\n\n\n\n提示\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\n注意\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。\n\n\n关于这只猫，还有其他的图片，可以在Pictures中查看。\n\n\n\n\n\n 回到顶部"
+    "text": "南宁荔滨大道\n拍摄于2026年10月3日。 荔滨大道位于青秀区，照片可见 表 1。\n原图可见Photography/荔滨大道\n\n\n\n表 1: 荔滨大道\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "pankid",
+    "section": "",
+    "text": "pankid4250@gmail.com\n  \n  \n    \n     pankid\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     连享会\n  \n  \n    \n     CV\n  \n\n  \n  \n\n欢迎来到我的个人主页！\n这里是pankid的个人主页。\n\n\n\n\n\n\n\n\n\n\n\n   \n    \n    \n      排序方式\n      默认\n      \n        标题\n      \n      \n        日期 - 日期升序\n      \n      \n        日期 - 日期降序\n      \n      \n        作者\n      \n      \n        修改时间 - 日期升序\n      \n      \n        修改时间 - 日期降序\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n南宁荔滨大道\n\n\n\n\n\n\nphotography\n\n\n\n\n\n\n\n\n\n2026-10-03 星期六 19:00\n\n\npankid\n\n1 分钟\n\n18 字\n\n\n2026-10-03 星期六 14:20\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n欢迎\n\n\n\nnews\n\n\n\n关于主页的说明\n\n\n\n\n\n2025-08-01 星期五 09:00\n\n\npankid\n\n2 分钟\n\n242 字\n\n\n2026-10-03 星期六 14:20\n\n\n\n\n\n无匹配项\n 回到顶部"
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "pankid",
+    "section": "",
+    "text": "回到顶部"
   },
   {
     "objectID": "books.html",
@@ -193,18 +207,11 @@
     ]
   },
   {
-    "objectID": "help.html",
-    "href": "help.html",
-    "title": "pankid",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "回到顶部"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "pankid",
-    "section": "",
-    "text": "pankid4250@gmail.com\n  \n  \n    \n     pankid\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     连享会\n  \n  \n    \n     CV\n  \n\n  \n  \n\n欢迎来到我的个人主页！\n这里是pankid的个人主页。\n\n\n\n\n\n\n\n\n\n\n\n   \n    \n    \n      排序方式\n      默认\n      \n        标题\n      \n      \n        日期 - 日期升序\n      \n      \n        日期 - 日期降序\n      \n      \n        作者\n      \n      \n        修改时间 - 日期升序\n      \n      \n        修改时间 - 日期降序\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n欢迎\n\n\n\nnews\n\n\n\n关于主页的说明\n\n\n\n\n\n2025-08-01 星期五 09:00\n\n\npankid\n\n2 分钟\n\n242 字\n\n\n2026-10-03 星期六 14:08\n\n\n\n\n\n无匹配项\n 回到顶部"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\n注记\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\n警告\n\n\n\nCallouts provide a simple way to attract attention, for example, to this warning.\n\n\n\n\n\n\n\n\n重要\n\n\n\nThis is an important callout. You can use callouts to highlight important information in your posts.\n\n\n\n\n\n\n\n\n提示\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\n注意\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n我很喜欢猫，我的头像就是一只猫，我想养一只像这样的猫。\n\n\n关于这只猫，还有其他的图片，可以在Pictures中查看。\n\n\n\n\n\n 回到顶部"
   },
   {
     "objectID": "blog.html",
