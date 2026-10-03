@@ -104,10 +104,13 @@ website:
     right: 
       - icon: github
         href: https://github.com
+        target: _blank
       - icon: google
         href: https://www.google.com
+        target: _blank
       - icon: youtube
         href: https://www.youtube.com
+        target: _blank
   
   sidebar: 
     - title: "Gallery"

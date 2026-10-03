@@ -17,19 +17,26 @@ about:
     - icon: mailbox
       text: pankid4250@gmail.com
       href: mailto:pankid4250@gmail.com
+      target: _blank
     - icon: github
       text: pankid
       href: https://github.com/pankid
+      target: _blank
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com
+      target: _blank
     - icon: bookmarks
       text: 连享会
       href: https://www.lianxh.cn
+      target: _blank
     - icon: file-person
       text: CV
       href: CV.pdf  
+      target: _blank
 ---
+
+# 你好
 
 ::: {#hero-heading}
 
@@ -37,4 +44,12 @@ about:
 
 这里是pankid的个人主页。
 
+## 我是谁？
+
+## 我从哪来？
+
+## 我到哪去？
+
 :::
+
+# 你好
