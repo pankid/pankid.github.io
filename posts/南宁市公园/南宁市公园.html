@@ -455,6 +455,7 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../posts/blog.html">Posts</a></li><li class="breadcrumb-item"><a href="../../posts/南宁市公园/南宁市公园.html">南宁市公园</a></li><li class="breadcrumb-item"><a href="../../posts/南宁市公园/南宁市公园.html">南宁市公园list</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">南宁市公园list</h1>
+<p class="subtitle lead">南宁市公园列表</p>
   <div class="quarto-categories">
     <div class="quarto-category">location</div>
   </div>
@@ -481,6 +482,12 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
     
   </div>
   
+<div>
+  <div class="abstract">
+    <div class="block-title">摘要</div>
+    关于南宁市公园的清单
+  </div>
+</div>
 
 
 </header>
@@ -609,6 +616,13 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
