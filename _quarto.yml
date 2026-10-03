@@ -59,14 +59,13 @@ website:
         href: books.qmd
       - text: "Blogs"
         icon: file-post
-        href: blog.qmd
+        href: posts/blog.qmd
       - text: "Codes"
         icon: code
         href: codes.qmd
       - text: "CV"
         icon: person-vcard
         href: about.qmd
-#      - sidebar:gallery
       - text: "Gallery"
         icon: camera
         menu:
@@ -75,7 +74,7 @@ website:
             href: gallery\photography\photography.qmd
           - text: "Pictures"
             icon: image
-            href: gallery\pictures\cats.qmd
+            href: gallery\pictures\pictures.qmd
           - text: "Videos"
             icon: play-btn
             href: gallery\videos\videos.qmd
@@ -100,13 +99,15 @@ website:
         href: https://www.youtube.com
   
   sidebar: 
-    - id: gallery
-      title: "Gallery"
+    - title: "Gallery"
       style: "floating"
       background: light
       collapse-level: 3
       alignment: center
       contents: gallery
+
+    - title: "Blogs"
+      contents: posts
 
     - title: "Publications"
       contents: 

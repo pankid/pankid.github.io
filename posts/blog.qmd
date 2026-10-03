@@ -7,6 +7,9 @@ lang: zh
 date: "2025-08-01 09:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
 categories: [news]
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 This is the first post in a Quarto blog. Welcome!
@@ -32,7 +35,7 @@ This is an example of a callout with a title.
 This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
 :::
 
-![](Python.jpg)
+![Python](https://cloudflare-imgbed-cea.pages.dev/file/img/1791046121592_Python.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
