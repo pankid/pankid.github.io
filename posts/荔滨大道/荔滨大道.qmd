@@ -1,0 +1,20 @@
+---
+title: "南宁荔滨大道"
+author: "pankid"
+date: "2026-10-03 19:00"
+date-format: "YYYY年M月D日 dddd A HH:mm"
+categories: [photography]
+---
+
+# 南宁荔滨大道
+
+拍摄于2026年10月3日。
+荔滨大道位于青秀区，照片可见 @tbl-letters。  
+原图可见[Photography/荔滨大道](https://cloudflare-imgbed-cea.pages.dev/browse/Photography/荔滨大道)
+
+|  |  |
+|:----:|:----:|
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035664933__DSC0037.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035665488__DSC0038.jpg) |
+| ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035662775__DSC0044.jpg) | ![](https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035661578__DSC0045.jpg) |
+
+: 荔滨大道 {#tbl-letters}
