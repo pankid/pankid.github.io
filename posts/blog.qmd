@@ -35,7 +35,9 @@ This is an example of a callout with a title.
 This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
 :::
 
-![Python](https://cloudflare-imgbed-cea.pages.dev/file/img/1791046121592_Python.jpg)
+![](Python.jpg)
+
+![Python](https://cloudflare-imgbed-cea.pages.dev/file/img/1791046121592_Python.jpg "Python")
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
 
