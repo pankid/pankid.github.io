@@ -6,6 +6,7 @@ author: "pankid"
 lang: zh
 date: "2025-08-01 09:00"
 date-format: "YYYY年M月D日 dddd A HH:mm"
+image: "https://cloudflare-imgbed-cea.pages.dev/file/img/1791046121592_Python.jpg"
 categories: [news]
 editor: 
   markdown: 
