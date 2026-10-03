@@ -50,47 +50,57 @@ website:
     background: primary
     pinned: true
     search: true
-    target: _blank
     left: 
       - text: "Publications"
         icon: journals
         href: publications.qmd
+        target: _blank
       - text: "Books"
         icon: book
         href: books.qmd
+        target: _blank
       - text: "Blogs"
         icon: file-post
         href: posts/blog.qmd
+        target: _blank
       - text: "Codes"
         icon: code
         href: codes.qmd
+        target: _blank
       - text: "CV"
         icon: person-vcard
         href: about.qmd
+        target: _blank
       - text: "Gallery"
         icon: camera
         menu:
           - text: "Photography"
             icon: camera-fill
             href: gallery\photography\photography.qmd
+            target: _blank
           - text: "Pictures"
             icon: image
             href: gallery\pictures\pictures.qmd
+            target: _blank
           - text: "Videos"
             icon: play-btn
             href: gallery\videos\videos.qmd
+            target: _blank
       - text: "More"
         icon: three-dots
         menu: 
           - text: "Help"
             icon: info-circle
             href: help.qmd
+            target: _blank
           - text: "Q&A"
             icon: chat-dots
             href: Q&A.qmd
+            target: _blank
           - text: "Ask a Question"
             icon: question-circle
             href: https://github.com/pankid/pankid.github.io/issues
+            target: _blank
     right: 
       - icon: github
         href: https://github.com
