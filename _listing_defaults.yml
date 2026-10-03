@@ -9,6 +9,7 @@ listing:
   date-format: "YYYY-MM-DD dddd HH:mm"
   categories: numbered
   page-size: 10
+  feed: true
   fields: 
     - image
     - title

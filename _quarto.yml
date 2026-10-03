@@ -24,6 +24,7 @@ website:
   page-navigation: true
   title: "pankid"
   site-url: https://pankid.github.io
+  description: "pankid的个人网站"
   favicon: images/wukong5-site.jpg
   search: 
     location: navbar
@@ -110,6 +111,9 @@ website:
         target: _blank
       - icon: youtube
         href: https://www.youtube.com
+        target: _blank
+      - icon: rss
+        href: index.xml
         target: _blank
   
   sidebar: 
