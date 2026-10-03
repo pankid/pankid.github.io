@@ -50,6 +50,7 @@ website:
     background: primary
     pinned: true
     search: true
+    target: _blank
     left: 
       - text: "Publications"
         icon: journals
@@ -148,3 +149,5 @@ format:
     reading-time: true        # 显示阅读时间
     word-count: true          # 显示字数统计
     respect-user-color-scheme: true
+    link-external-newwindow: true
+    link-external-icon: true

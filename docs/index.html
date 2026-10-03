@@ -547,7 +547,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bG9jYXRpb24=" data-listing-date-sort="1789297200000" data-listing-file-modified-sort="1791043629977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="0" data-categories="bG9jYXRpb24=" data-listing-date-sort="1789297200000" data-listing-file-modified-sort="1791047681676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail"><a href="./posts/南宁市公园/南宁市公园.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -558,7 +558,7 @@ window.Quarto = {
 <a href="./posts/南宁市公园/南宁市公园.html" class="no-external">南宁市公园list</a>
 </h3>
 <div class="listing-subtitle">
-<a href="./posts/南宁市公园/南宁市公园.html" class="no-external"></a>
+<a href="./posts/南宁市公园/南宁市公园.html" class="no-external">南宁市公园列表</a>
 </div>
 <div class="listing-categories">
 
@@ -566,25 +566,7 @@ window.Quarto = {
 
 </div>
 <div class="delink listing-description"><a href="./posts/南宁市公园/南宁市公园.html" class="no-external">
-
-<li><label><input type="checkbox">新秀公园</label></li>
-<li><label><input type="checkbox">南宁市江南公园</label></li>
-<li><label><input type="checkbox">金花茶公园</label></li>
-<li><label><input type="checkbox">邕江北岸公园</label></li>
-<li><label><input type="checkbox">邕江南岸江滨公园</label></li>
-<li><label><input type="checkbox">南宁市石门森林公园</label></li>
-<li><label><input type="checkbox">五象岭森林公园</label></li>
-<li><label><input type="checkbox">良凤江国家森林公园</label></li>
-<li><label><input type="checkbox">南宁市滨江公园</label></li>
-<li><label><input type="checkbox">五象湖公园</label></li>
-<li><label><input type="checkbox">花卉公园</label></li>
-<li><label><input type="checkbox">心圩江公园</label></li>
-<li><label><input type="checkbox">南宁市人民公园</label></li>
-<li><label><input type="checkbox">狮山公园</label></li>
-<li><label><input type="checkbox">南湖公园</label></li>
-<li><label><input type="checkbox">南宁青秀湖公园</label></li>
-<li><label><input type="checkbox">明月湖公园</label></li>
-
+<p>关于南宁市公园的清单</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -600,7 +582,7 @@ pankid
 52 字
 </div>
 <div class="metadata-value listing-file-modified">
-2026-10-04 星期日 00:07
+2026-10-04 星期日 01:14
 </div>
 </a>
 </div>
@@ -741,6 +723,13 @@ pankid
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
