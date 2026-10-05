@@ -19,6 +19,9 @@ slide-format: revealjs
 
 </div>
 
+我的相机设备是[**尼康*ℤ6Ⅲ***](https://www.nikon.com.cn/sc_CN/product/mirrorless/z6iii)  
+相机展示图可见https://cloudflare-imgbed-cea.pages.dev/browse/img/尼康ℤ6Ⅲ
+
 ![](https://cloudflare-imgbed-cea.pages.dev/file/img/1789910285921_nk.png)
 
 
