@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/猫狗日记/猫.html",
+      "/posts/猫狗日记/狗.html",
       "/posts/南宁市公园/南宁市公园.html",
       "/posts/blog.html"
     ]
