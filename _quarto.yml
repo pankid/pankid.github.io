@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "assets/audio/**"
 
 # metadata-files: 
 #   - _listing_defaults.yml
@@ -168,3 +170,34 @@ format:
     respect-user-color-scheme: true
     link-external-newwindow: true
     link-external-icon: true
+
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+          <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    include-after-body:
+      - text: |
+          <div id="aplayer"></div>
+          <script>
+          (function () {
+            const BASE = '';
+
+            new APlayer({
+              container: document.getElementById('aplayer'),
+              fixed: true,          // 固定在右下角
+              mini: true,           // 可折叠成小图标
+              autoplay: false,      // 浏览器会拦截自动播放，建议 false
+              loop: 'all',
+              volume: 0.5,
+              audio: [
+                {
+                  name: '把回忆拼好给你',
+                  artist: '王贰浪',
+                  url: '/assets/audio/把回忆拼好给你-王贰浪.flac',
+                  cover: '/assets/audio/wukong5.jpeg'
+                  lrc: '/assets/audio/把回忆拼好给你-王贰浪.lrc'
+                }
+              ]
+            });
+          })();
+          </script>
