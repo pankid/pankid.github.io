@@ -89,8 +89,6 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 </script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
 
 
 </head>
@@ -495,6 +493,111 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<!-- music-player.html -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+
+<div id="aplayer"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+
+<script>
+
+    (function () {
+
+        const BASE = '';   // 改成你的仓库名；用户站点填 ''
+
+
+
+        function init() {
+
+            if (typeof APlayer === 'undefined') {
+
+                console.warn('APlayer 未加载，检查 CDN');
+
+                return;
+
+            }
+
+            new APlayer({
+
+                container: document.getElementById('aplayer'),
+
+                listFolded: true,
+
+                autoplay: false,
+
+                loop: 'all',
+
+                volume: 0.5,
+
+                lrcType: 3,
+
+                audio: [
+
+                    {
+
+                        name: '把回忆拼好给你',
+
+                        artist: '王贰浪',
+
+                        url: '/assets/audio/把回忆拼好给你-王贰浪.flac',
+
+                        cover: '/images/wukong5.jpeg',
+
+                        lrc: '/assets/audio/把回忆拼好给你-王贰浪.lrc'
+
+                    },
+
+                    {
+
+                        name: '起风了',
+
+                        artist: '买辣椒也用券',
+
+                        url: '/assets/audio/起风了-买辣椒也用券.flac',
+
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+
+                        lrc: '/assets/audio/起风了-买辣椒也用券.lrc'
+
+                    },
+
+                    {
+
+                        name: '白鸽乌鸦相爱的戏码',
+
+                        artist: '潘成（皮卡潘）',
+
+                        url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359950706_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.flac',
+
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+
+                        lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359947394_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.lrc'
+
+                    }
+
+                ]
+
+            });
+
+        }
+
+
+
+        if (document.readyState === 'loading') {
+
+            document.addEventListener('DOMContentLoaded', init);
+
+        } else {
+
+            init();
+
+        }
+
+    })();
+
+</script>
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../posts/blog.html">Posts</a></li><li class="breadcrumb-item"><a href="../../posts/猫狗日记/狗.html">猫狗日记</a></li><li class="breadcrumb-item"><a href="../../posts/猫狗日记/猫.html">猫</a></li></ol></nav>
 <div class="quarto-title">
@@ -1005,30 +1108,6 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 </div>
   </div>
 </footer>
-<div id="aplayer"></div>
-<script>
-(function () {
-  const BASE = '';
-
-  new APlayer({
-    container: document.getElementById('aplayer'),
-    fixed: true,          // 固定在右下角
-    mini: true,           // 可折叠成小图标
-    autoplay: false,      // 浏览器会拦截自动播放，建议 false
-    loop: 'all',
-    volume: 0.5,
-    audio: [
-      {
-        name: '把回忆拼好给你',
-        artist: '王贰浪',
-        url: '/assets/audio/把回忆拼好给你-王贰浪.flac',
-        cover: '/assets/audio/wukong5.jpeg'
-        lrc: '/assets/audio/把回忆拼好给你-王贰浪.lrc'
-      }
-    ]
-  });
-})();
-</script>
 
 
 

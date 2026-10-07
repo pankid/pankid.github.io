@@ -7,6 +7,71 @@
     "text": "回到顶部"
   },
   {
+    "objectID": "posts/猫狗日记/猫.html#狸花猫",
+    "href": "posts/猫狗日记/猫.html#狸花猫",
+    "title": "猫",
+    "section": "狸花猫",
+    "text": "狸花猫",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "猫"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/猫.html#简州猫",
+    "href": "posts/猫狗日记/猫.html#简州猫",
+    "title": "猫",
+    "section": "简州猫",
+    "text": "简州猫",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "猫"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/猫.html#奶牛猫",
+    "href": "posts/猫狗日记/猫.html#奶牛猫",
+    "title": "猫",
+    "section": "奶牛猫",
+    "text": "奶牛猫",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "猫"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/猫.html#大橘",
+    "href": "posts/猫狗日记/猫.html#大橘",
+    "title": "猫",
+    "section": "大橘",
+    "text": "大橘",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "猫"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/猫.html#三花",
+    "href": "posts/猫狗日记/猫.html#三花",
+    "title": "猫",
+    "section": "三花",
+    "text": "三花",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "猫"
+    ]
+  },
+  {
     "objectID": "posts/南宁市公园/南宁市公园.html",
     "href": "posts/南宁市公园/南宁市公园.html",
     "title": "南宁市公园list",
@@ -20,11 +85,25 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#我是谁",
+    "href": "index.html#我是谁",
     "title": "pankid",
-    "section": "",
-    "text": "pankid4250@gmail.com\n  \n  \n    \n     pankid\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     连享会\n  \n  \n    \n     CV\n  \n\n  \n  \n\n\n这里是pankid的个人主页。"
+    "section": "我是谁？",
+    "text": "我是谁？"
+  },
+  {
+    "objectID": "index.html#我从哪来",
+    "href": "index.html#我从哪来",
+    "title": "pankid",
+    "section": "我从哪来？",
+    "text": "我从哪来？"
+  },
+  {
+    "objectID": "index.html#我到哪去",
+    "href": "index.html#我到哪去",
+    "title": "pankid",
+    "section": "我到哪去？",
+    "text": "我到哪去？"
   },
   {
     "objectID": "index.html#你好",
@@ -129,46 +208,39 @@
     "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换.\n\n\n\n\n\n 回到顶部"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "pankid",
-    "section": "",
-    "text": "pankid\n\n\n\n社会学（Sociology）、经济学（Economics）\n\n\n\n爱好风光摄影（Photography）\n数据分析（Data Analysis）\nPython、Stata、R、Markdown、Quarto\n\n\n\n\n2025~至今：Work\n2021~2025：大学（University）\n2018~2021：高中（High school）"
-  },
-  {
     "objectID": "about.html#个人简介",
     "href": "about.html#个人简介",
     "title": "pankid",
-    "section": "",
-    "text": "pankid"
+    "section": "个人简介",
+    "text": "个人简介\npankid"
   },
   {
     "objectID": "about.html#关注领域",
     "href": "about.html#关注领域",
     "title": "pankid",
-    "section": "",
-    "text": "社会学（Sociology）、经济学（Economics）"
+    "section": "关注领域",
+    "text": "关注领域\n社会学（Sociology）、经济学（Economics）"
   },
   {
     "objectID": "about.html#兴趣技能",
     "href": "about.html#兴趣技能",
     "title": "pankid",
-    "section": "",
-    "text": "爱好风光摄影（Photography）\n数据分析（Data Analysis）\nPython、Stata、R、Markdown、Quarto"
+    "section": "兴趣技能",
+    "text": "兴趣技能\n爱好风光摄影（Photography）\n数据分析（Data Analysis）\nPython、Stata、R、Markdown、Quarto"
   },
   {
     "objectID": "about.html#个人经历",
     "href": "about.html#个人经历",
     "title": "pankid",
-    "section": "",
-    "text": "2025~至今：Work\n2021~2025：大学（University）\n2018~2021：高中（High school）"
+    "section": "个人经历",
+    "text": "个人经历\n\n2025~至今：Work\n2021~2025：大学（University）\n2018~2021：高中（High school）"
   },
   {
     "objectID": "books.html",
     "href": "books.html",
     "title": "Books",
     "section": "",
-    "text": "主页 || 课程 || 视频 || 推文 || 资料\n这些书稿是由我平时上课时的讲义整理而成的，尚未完稿。大家在阅读过程中，若发现错误或表述不妥之处，烦请邮件告知我，以便完善。我的邮箱：arlionn@163.com。",
+    "text": "这些书稿是由我平时上课时的讲义整理而成的，尚未完稿。大家在阅读过程中，若发现错误或表述不妥之处，烦请邮件告知我，以便完善。我的邮箱：arlionn@163.com。",
     "crumbs": [
       "Books"
     ]
@@ -297,13 +369,68 @@
     ]
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "注记Links\n\n\n\n\n\nGoogle Scholar: https://scholar.google.com/citations?user=tlkDP2AAAAAJ\nORCID: https://orcid.org/0000-0002-2011-7535\nResearchGate: https://www.researchgate.net/profile/Yujun-Lian",
+    "objectID": "posts/猫狗日记/狗.html#哈士奇",
+    "href": "posts/猫狗日记/狗.html#哈士奇",
+    "title": "狗",
+    "section": "哈士奇",
+    "text": "哈士奇",
     "crumbs": [
-      "Publications"
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "狗"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/狗.html#金毛",
+    "href": "posts/猫狗日记/狗.html#金毛",
+    "title": "狗",
+    "section": "金毛",
+    "text": "金毛",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "狗"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/狗.html#边牧",
+    "href": "posts/猫狗日记/狗.html#边牧",
+    "title": "狗",
+    "section": "边牧",
+    "text": "边牧",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "狗"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/狗.html#德牧",
+    "href": "posts/猫狗日记/狗.html#德牧",
+    "title": "狗",
+    "section": "德牧",
+    "text": "德牧",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "狗"
+    ]
+  },
+  {
+    "objectID": "posts/猫狗日记/狗.html#拉布拉多",
+    "href": "posts/猫狗日记/狗.html#拉布拉多",
+    "title": "狗",
+    "section": "拉布拉多",
+    "text": "拉布拉多",
+    "crumbs": [
+      "Blogs",
+      "Posts",
+      "猫狗日记",
+      "狗"
     ]
   },
   {
