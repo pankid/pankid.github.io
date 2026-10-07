@@ -116,6 +116,8 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
@@ -581,7 +583,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y2F0" data-listing-date-sort="1791226800000" data-listing-file-modified-sort="1791289011136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="quarto-post image-right" data-index="0" data-categories="Y2F0" data-listing-date-sort="1791226800000" data-listing-file-modified-sort="1791352318423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <div class="thumbnail"><a href="./posts/猫狗日记/猫.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -616,12 +618,12 @@ pankid
 6 字
 </div>
 <div class="metadata-value listing-file-modified">
-2026-10-06 星期二 12:16
+2026-10-07 星期三 05:51
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="ZG9n" data-listing-date-sort="1791226800000" data-listing-file-modified-sort="1791289011136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<div class="quarto-post image-right" data-index="1" data-categories="ZG9n" data-listing-date-sort="1791226800000" data-listing-file-modified-sort="1791352318423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
 <div class="thumbnail"><a href="./posts/猫狗日记/狗.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -656,12 +658,12 @@ pankid
 6 字
 </div>
 <div class="metadata-value listing-file-modified">
-2026-10-06 星期二 12:16
+2026-10-07 星期三 05:51
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bG9jYXRpb24=" data-listing-date-sort="1789326000000" data-listing-file-modified-sort="1791289011136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
+<div class="quarto-post image-right" data-index="2" data-categories="bG9jYXRpb24=" data-listing-date-sort="1789326000000" data-listing-file-modified-sort="1791352318423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
 <div class="thumbnail"><a href="./posts/南宁市公园/南宁市公园.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -696,12 +698,12 @@ pankid
 52 字
 </div>
 <div class="metadata-value listing-file-modified">
-2026-10-06 星期二 12:16
+2026-10-07 星期三 05:51
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3cw==" data-listing-date-sort="1754038800000" data-listing-file-modified-sort="1791289011136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<div class="quarto-post image-right" data-index="3" data-categories="bmV3cw==" data-listing-date-sort="1754038800000" data-listing-file-modified-sort="1791352318423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
 <div class="thumbnail"><a href="./posts/blog.html" class="no-external">
 
 <img loading="lazy" src="https://cloudflare-imgbed-cea.pages.dev/file/img/1791046121592_Python.jpg" class="thumbnail-image">
@@ -736,7 +738,7 @@ pankid
 243 字
 </div>
 <div class="metadata-value listing-file-modified">
-2026-10-06 星期二 12:16
+2026-10-07 星期三 05:51
 </div>
 </a>
 </div>
@@ -1171,6 +1173,30 @@ pankid
 </div>
   </div>
 </footer>
+<div id="aplayer"></div>
+<script>
+(function () {
+  const BASE = '';
+
+  new APlayer({
+    container: document.getElementById('aplayer'),
+    fixed: true,          // 固定在右下角
+    mini: true,           // 可折叠成小图标
+    autoplay: false,      // 浏览器会拦截自动播放，建议 false
+    loop: 'all',
+    volume: 0.5,
+    audio: [
+      {
+        name: '把回忆拼好给你',
+        artist: '王贰浪',
+        url: '/assets/audio/把回忆拼好给你-王贰浪.flac',
+        cover: '/assets/audio/wukong5.jpeg'
+        lrc: '/assets/audio/把回忆拼好给你-王贰浪.lrc'
+      }
+    ]
+  });
+})();
+</script>
 
 
 

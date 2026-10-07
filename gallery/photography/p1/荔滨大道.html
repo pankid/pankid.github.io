@@ -89,6 +89,8 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
 
 
 </head>
@@ -638,6 +640,22 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 <td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035664933__DSC0037.jpg" class="img-fluid figure-img"></td>
 <td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791035661578__DSC0045.jpg" class="img-fluid figure-img"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351788231__DSC0057.jpg" class="img-fluid figure-img"></td>
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351797702__DSC0111.jpg" class="img-fluid figure-img"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351784510__DSC0112.jpg" class="img-fluid figure-img"></td>
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351805055__DSC0119.jpg" class="img-fluid figure-img"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351799642__DSC0109.jpg" class="img-fluid figure-img"></td>
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351795728__DSC0110.jpg" class="img-fluid figure-img"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351780321__DSC0113.jpg" class="img-fluid figure-img"></td>
+<td style="text-align: center;"><img src="https://cloudflare-imgbed-cea.pages.dev/file/Photography/荔滨大道/1791351800423__DSC0121.jpg" class="img-fluid figure-img"></td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -1094,6 +1112,30 @@ gtag('config', 'G-CGSQJSRMXB', { 'anonymize_ip': true});
 </div>
   </div>
 </footer>
+<div id="aplayer"></div>
+<script>
+(function () {
+  const BASE = '';
+
+  new APlayer({
+    container: document.getElementById('aplayer'),
+    fixed: true,          // 固定在右下角
+    mini: true,           // 可折叠成小图标
+    autoplay: false,      // 浏览器会拦截自动播放，建议 false
+    loop: 'all',
+    volume: 0.5,
+    audio: [
+      {
+        name: '把回忆拼好给你',
+        artist: '王贰浪',
+        url: '/assets/audio/把回忆拼好给你-王贰浪.flac',
+        cover: '/assets/audio/wukong5.jpeg'
+        lrc: '/assets/audio/把回忆拼好给你-王贰浪.lrc'
+      }
+    ]
+  });
+})();
+</script>
 
 
 
