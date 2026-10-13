@@ -73,27 +73,36 @@
     ]
   },
   {
-    "objectID": "gallery/photography/photography.html",
-    "href": "gallery/photography/photography.html",
+    "objectID": "gallery/photography/p2/p2.html",
+    "href": "gallery/photography/p2/p2.html",
     "title": "pankid’s Photography",
     "section": "",
-    "text": "具体拍摄的配置可以看pre演示文稿。\n我的相机设备是尼康ℤ6Ⅲ\n相机展示图可见img/尼康ℤ6Ⅲ",
+    "text": "回到顶部",
     "crumbs": [
       "Gallery",
       "Photography",
+      "P2",
       "pankid's Photography"
     ]
   },
   {
-    "objectID": "gallery/photography/photography.html#creating-slides",
-    "href": "gallery/photography/photography.html#creating-slides",
-    "title": "pankid’s Photography",
-    "section": "Creating Slides",
-    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
+    "objectID": "publications.html#期刊论文",
+    "href": "publications.html#期刊论文",
+    "title": "Publications",
+    "section": "期刊论文",
+    "text": "期刊论文\n\n连玉君, 李鑫. 完全刑责年龄法律对未成年人犯罪行为的威慑作用研究. 统计研究, 2025, 已接受. 工作论文版\n连玉君, 李鑫. 失去的十年:日本应对广场协议的政策效应研究. 中山大学学报 (社会科学版), 2025 (1): 185-196. -Link-, -PDF-\nYan, C., Lian, Y., Xu, X., & Chen, C.-C., Share pledge lending, monetary policy, and shadow banking nexus. 2025, Pacific-Basin Finance Journal, Online. Link\nLian, Y., J. Wang, M. Huang. Fast or Slow: Unveiling the Speed of Market Leverage Adjustment in China. 2024, Pacific-Basin Finance Journal, Online. Link, PDF\nZhou, K., Guan, Z., & Lian, Y. (2024). Carbon mitigation effect of emission trading product: Perspective from intra-industry carbon leakage. Energy Economics, 107966, Online. Link (rep), PDF, Google.\nYang, L., Cao, X. J., Wang, Y., Lian, Y., & Guo, Z. (2024). Does metro expansion matter? Metro network enhances metro mode share of commuters living away from stations, but not those near stations. Travel Behaviour and Society, 34, 100664. Link, PDF.\n程晓刚, 宋常, 连玉君, 毕功兵. 创新成功与企业供应链融资[J]. 中国软科学, 2024(2): 113-122.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n连玉君, 刘畅. 精准问询：来自年报问询和控股股东股权质押的证据, 山西财经大学学报. 2023, 45(1): 99-114. -Link-.\nYang, L., Wang, Y., Lian, Y., Dong, X., Liu, J., Liu, Y., & Wu, Z. (2022). Rational planning strategies of urban structure, metro, and car use for reducing transport carbon dioxide emissions in developing cities. Environment, Development and Sustainability, 25(7), 6987–7010. -Link-, -PDF-.\n连玉君, 李鑫. 合成控制法中的安慰剂检验改进研究——基于准标准化转换的统计推断. 统计研究, 2022 (8): 115-128. Codes, -PDF-\n李增福，陈俊杰，连玉君(*)，李铭杰. 经济政策不确定性与企业短债长用, 管理世界, 2022 (1): 77-89. -PDF-\n李增福，黄家慧，连玉君(*)，非国有资本参股与国企技术创新，统计研究，2021 (1): 119-131. -Link-, -PDF-, -附录-\n连玉君, 徐想响, 控股股东股权质押与企业短债长用, 金融学季刊, 2021, 15(4): 26-59. -PDF-\n连玉君, 刘畅. 质押新规、股价崩盘风险与公司价值. 中山大学学报, 2021, 61(5): 182-196. -PDF-\nYe, D., S. Pan, Y. Lian, Y.-K. Ng, 2021, Culture and savings: Why do asians save more?, The Singapore Economic Review: 1-31. -Link-, -PDF-, -PDF2-\n连玉君, 彭镇, 蔡菁, 杨海生. 经济周期下资本结构同群效应研究. 会计研究, 2020, (11): 85-97. -Link-, -PDF-\n彭镇, 连玉君(*), 戴亦一 “企业创新激励：来自同群效应的解释”，科研管理，2020, 4: 45-53. -PDF-\nPeng Zhen, Lian Yujun, Forson Joseph Ato, Peer Effects in R&D Investment Policy: Evidence from China, International Journal of Finance & Economics, 2021, 26: 4516-4533. (SSCI), -Link-, -PDF-, -PDF2-.\n杨海生, 柳建华, 连玉君, 江颖臻, “企业投资决策中的同行效应研究：模仿与学习”， 经济学(季刊), 2020, 19 (4): 1375-1400. -Link-, -PDF-\nYang, Liu, Yuanqing Wang, Yujun Lian, and Sunsheng Han. 2020. “Factors and Scenario Analysis of Transport Carbon Dioxide Emissions in Rapidly-Developing Cities.” Transportation Research Part D-Transport and Environment 80: 102252. -Link-, -PDF-\n陈晓玲, 吴贾, 连玉君. 资本—劳动替代弹性、有偏技术进步与中国工业企业要素相对收入份额[J]. 经济科学, 2019 (4): 81-91. -Link-, -PDF-\n连玉君, 2018, 随机边界模型:进展及stata应用, 郑州航空工业管理学院学报, (1): 97-112. -PDF-\n连玉君, 廖俊平. “如何检验分组回归后的组间系数差异？”，郑州航空工业管理学院学报, 2017(6): 97-109. -Link-, -被引-, 推文, -PDF-\n李增福，汤旭东，连玉君(*), “中国民营企业社会责任背离之谜”，管理世界，2016 (9): 136-148. -Link-, -PDF-\nHuang, B.H., Lian, Yujun(*), Li, W.S., “How far is Chinese left-behind parents’ health left behind?”, China Economic Review, 2016 (37): 15-26. -Link-, -PDF-.\n彭方平, 周先波, 连玉君(*), 展凯, “垄断与通货膨胀：理论与证据”，金融研究, 2016 (5): 19-34. -Link-, -PDF-\n陈晓玲, 徐舒, 连玉君. “要素替代弹性、有偏技术进步对我国工业能源强度的影响”，数量经济与技术经济研究, 2015 (3): 58-76. -Link-\n阳义南, 连玉君. “中国社会代际流动性的动态解析——CGSS 与 CLDS 混合横截面数据的经验证据”，管理世界, 2015 (4): 79-91. -Link-, -PDF-\nYe Dezhu, NG Yew-Kwang, Lian Yujun (*), “Culture and Happiness”, Social Indicators Research, 2015, 123 (2): 519-547. -Link-, -PDF-, -PDF2-\n连玉君, 黎文素, 黄必红. “子女外出务工对父母健康和生活满意度影响研究”, 经济学(季刊), 2014, 14 (1):185-202. -Link-, -PDF-\n连玉君, 王闻达, 叶汝财. “Hausman 检验统计量有效性的 Monte Carlo 模拟分析”. 数理统计与管理, 2014, 33 (5): 830-841. -Link-\n李增福, 黎慧玲, 连玉君, “公允价值变动列报的市场反应”. 会计研究, 2013 (10): 15-21. -Link-\n范红忠, 黄永明, 连玉君. “就业生命时间、劳动者收入的持久性与我国居民消费率”. 经济学(季刊), 2013, 12 (4): 1209-1230. -Link-\n彭方平, 连玉君, 赵慧敏. “经济增长与我国通货膨胀容忍度”.金融研究, 2013 (3): 87-100. -Link-\n彭方平, 连玉君, 胡新明, 赵慧敏. “规模经济、卡甘效应与微观货币需求——兼论我国高货币化之谜”. 经济研究, 2013 (4): 83-93. -Link-\n彭方平, 樊海潮，连玉君, 展凯. 我国通货膨胀类型的甄别——基于企业层面的经验证据”. 经济研究, 2012 (8): 70-80.\n李增福, 顾研, 连玉君. 税率变动、破产成本与资本结构非对称调整. 金融研究, 2012 (5): 136-150.\n陈晓玲, 连玉君. 资本-劳动替代弹性与地区经济增长——德拉格兰德维尔假说的检验. 经济学(季刊), 2012, 12 (1): 93-118. -Link-\n叶德珠, 连玉君, 黄有光, 李东辉. 消费文化、认知偏差与消费行为偏差. 经济研究, 2012 (2): 80-92. -Link-\n鲁晓东, 连玉君. 中国工业企业全要素生产率估计：1999-2007. 经济学(季刊), 2012, 11 (2): 541-558. -Link-\n连玉君, 刘醒云, 苏治. 现金持有的行业特征：差异性与收敛性, 会计研究, 2011 (7): 66-72. -Link-\n苏治, 连玉君. 中国上市公司代理成本的估算——基于异质性随机前沿模型的经验分析，管理世界，2011 (6): 174-175+188. -Link-\nLian, Y.J., Z. Su, Y.D. Gu, Evaluating the Effects of Equity Incentives using PSM: Evidence from China. Frontiers of Business Research in China, 2011, 5 (2): 266-290. -Link-\n卢洪友, 连玉君, 卢盛峰. 中国医疗服务市场中的信息不对称程度测算. 经济研究, 2011 (04): 94-106. -Link-\n李增福, 董志强, 连玉君. 应计项目盈余管理还是真实活动盈余管理？——基于我国 2007 年所得税改革的研究, 管理世界, 2011 (1): 121-134. -Link-\n彭方平, 连玉君. 2010, 我国货币政策的成本效应, 管理世界, 12, 27-33. -Link-\n连玉君, 苏治, 彭方平. 融资约束与流动性管理行为. 金融研究, 2010 (10): 158-171. -Link-\n彭方平, 连玉君. 我国行业周期非同步效应——基于微观视角, 经济学(季刊), 2010, 9 (3): 1071-1082.\n\n连玉君, 苏治. 融资约束、不确定性与上市公司投资效率. 管理评论, 2009 (01)：19-27. -Link-\n连玉君, 苏治, 丁志国. 现金-现金流敏感性能检验融资约束假说吗? 统计研究, 2008 (10): 92-99. -Link-\n连玉君, 苏治. 上市公司现金持有:静态权衡还是动态权衡？世界经济, 2008 (10): 84-96. -Link-\n连玉君, 程建. 投资-现金流敏感性：融资约束还是代理成本. 财经研究, 2007 (2): 37-46. -Link-",
     "crumbs": [
-      "Gallery",
-      "Photography",
-      "pankid's Photography"
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "publications.html#科研项目",
+    "href": "publications.html#科研项目",
+    "title": "Publications",
+    "section": "科研项目",
+    "text": "科研项目\n\n广东省自然科学基金委员会，面上项目，2023A1515012307，科创板IP0 定价效率研究，2023.1.1-2025.12.31，资助额：10 万元. 负责人：连玉君\n广东省自然科学基金委员会，面上项目，2020A1515011291，股权质押的风险传染与防范措施研究，2019.10.1-2022.9.30，资助额：10 万元. 已结项，主持\n国家自然科学基金委员会，面上项目，71672206，中国上市公司财务决策中的同群效应研究，2017.01-2020.12, 资助额：48 万元，结项申请，主持\n国家自然科学基金委员会，青年项目，71002056，中国上市公司流动性管理行为研究：动机、方式与经济后果，2011.01-2013.12，资助额：18 万元，已结项(评定为“优”)，主持\n国家税务总局委托项目，编号：10000-71210549，“基于随机边界分析的税收流失率估算研究”，2016/09-2017/09, 资助额：20 万, 已结项。\n广东省省委宣传部，广东省社科规划项目，LLYJ1313，打造“理论粤军”2013 年度重大现实问题研究招标课题“广东做大做强民营经济研究”，2014.01-2016.01，资助额：25 万元，已结项，主持\n广东省自然科学基金委员会，科技计划项目，2011B040400006，促进广东高新技术业和科技服务业协同发展的科技服务模式研究，2011.09-2012.08，资助额：20 万元，已结项，主持\n教育部人文社会科学研究基金青年项目“转型背景下中国上市公司投资效率研究”，(编号：09YJC790269)，2009.12-2012.12. 负责人: 连玉君. 资助额：5 万. (已结项)\n广东省自然科学基金项目“广东科技型企业研发模式和研发效率研究”，（9451027501002497），2009.10-2011.10. 负责人: 连玉君. 资助额：3 万. (已结项)",
+    "crumbs": [
+      "Publications"
     ]
   },
   {
@@ -341,72 +350,48 @@
     ]
   },
   {
-    "objectID": "publications.html#期刊论文",
-    "href": "publications.html#期刊论文",
-    "title": "Publications",
-    "section": "期刊论文",
-    "text": "期刊论文\n\n连玉君, 李鑫. 完全刑责年龄法律对未成年人犯罪行为的威慑作用研究. 统计研究, 2025, 已接受. 工作论文版\n连玉君, 李鑫. 失去的十年:日本应对广场协议的政策效应研究. 中山大学学报 (社会科学版), 2025 (1): 185-196. -Link-, -PDF-\nYan, C., Lian, Y., Xu, X., & Chen, C.-C., Share pledge lending, monetary policy, and shadow banking nexus. 2025, Pacific-Basin Finance Journal, Online. Link\nLian, Y., J. Wang, M. Huang. Fast or Slow: Unveiling the Speed of Market Leverage Adjustment in China. 2024, Pacific-Basin Finance Journal, Online. Link, PDF\nZhou, K., Guan, Z., & Lian, Y. (2024). Carbon mitigation effect of emission trading product: Perspective from intra-industry carbon leakage. Energy Economics, 107966, Online. Link (rep), PDF, Google.\nYang, L., Cao, X. J., Wang, Y., Lian, Y., & Guo, Z. (2024). Does metro expansion matter? Metro network enhances metro mode share of commuters living away from stations, but not those near stations. Travel Behaviour and Society, 34, 100664. Link, PDF.\n程晓刚, 宋常, 连玉君, 毕功兵. 创新成功与企业供应链融资[J]. 中国软科学, 2024(2): 113-122.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n连玉君, 刘畅. 精准问询：来自年报问询和控股股东股权质押的证据, 山西财经大学学报. 2023, 45(1): 99-114. -Link-.\nYang, L., Wang, Y., Lian, Y., Dong, X., Liu, J., Liu, Y., & Wu, Z. (2022). Rational planning strategies of urban structure, metro, and car use for reducing transport carbon dioxide emissions in developing cities. Environment, Development and Sustainability, 25(7), 6987–7010. -Link-, -PDF-.\n连玉君, 李鑫. 合成控制法中的安慰剂检验改进研究——基于准标准化转换的统计推断. 统计研究, 2022 (8): 115-128. Codes, -PDF-\n李增福，陈俊杰，连玉君(*)，李铭杰. 经济政策不确定性与企业短债长用, 管理世界, 2022 (1): 77-89. -PDF-\n李增福，黄家慧，连玉君(*)，非国有资本参股与国企技术创新，统计研究，2021 (1): 119-131. -Link-, -PDF-, -附录-\n连玉君, 徐想响, 控股股东股权质押与企业短债长用, 金融学季刊, 2021, 15(4): 26-59. -PDF-\n连玉君, 刘畅. 质押新规、股价崩盘风险与公司价值. 中山大学学报, 2021, 61(5): 182-196. -PDF-\nYe, D., S. Pan, Y. Lian, Y.-K. Ng, 2021, Culture and savings: Why do asians save more?, The Singapore Economic Review: 1-31. -Link-, -PDF-, -PDF2-\n连玉君, 彭镇, 蔡菁, 杨海生. 经济周期下资本结构同群效应研究. 会计研究, 2020, (11): 85-97. -Link-, -PDF-\n彭镇, 连玉君(*), 戴亦一 “企业创新激励：来自同群效应的解释”，科研管理，2020, 4: 45-53. -PDF-\nPeng Zhen, Lian Yujun, Forson Joseph Ato, Peer Effects in R&D Investment Policy: Evidence from China, International Journal of Finance & Economics, 2021, 26: 4516-4533. (SSCI), -Link-, -PDF-, -PDF2-.\n杨海生, 柳建华, 连玉君, 江颖臻, “企业投资决策中的同行效应研究：模仿与学习”， 经济学(季刊), 2020, 19 (4): 1375-1400. -Link-, -PDF-\nYang, Liu, Yuanqing Wang, Yujun Lian, and Sunsheng Han. 2020. “Factors and Scenario Analysis of Transport Carbon Dioxide Emissions in Rapidly-Developing Cities.” Transportation Research Part D-Transport and Environment 80: 102252. -Link-, -PDF-\n陈晓玲, 吴贾, 连玉君. 资本—劳动替代弹性、有偏技术进步与中国工业企业要素相对收入份额[J]. 经济科学, 2019 (4): 81-91. -Link-, -PDF-\n连玉君, 2018, 随机边界模型:进展及stata应用, 郑州航空工业管理学院学报, (1): 97-112. -PDF-\n连玉君, 廖俊平. “如何检验分组回归后的组间系数差异？”，郑州航空工业管理学院学报, 2017(6): 97-109. -Link-, -被引-, 推文, -PDF-\n李增福，汤旭东，连玉君(*), “中国民营企业社会责任背离之谜”，管理世界，2016 (9): 136-148. -Link-, -PDF-\nHuang, B.H., Lian, Yujun(*), Li, W.S., “How far is Chinese left-behind parents’ health left behind?”, China Economic Review, 2016 (37): 15-26. -Link-, -PDF-.\n彭方平, 周先波, 连玉君(*), 展凯, “垄断与通货膨胀：理论与证据”，金融研究, 2016 (5): 19-34. -Link-, -PDF-\n陈晓玲, 徐舒, 连玉君. “要素替代弹性、有偏技术进步对我国工业能源强度的影响”，数量经济与技术经济研究, 2015 (3): 58-76. -Link-\n阳义南, 连玉君. “中国社会代际流动性的动态解析——CGSS 与 CLDS 混合横截面数据的经验证据”，管理世界, 2015 (4): 79-91. -Link-, -PDF-\nYe Dezhu, NG Yew-Kwang, Lian Yujun (*), “Culture and Happiness”, Social Indicators Research, 2015, 123 (2): 519-547. -Link-, -PDF-, -PDF2-\n连玉君, 黎文素, 黄必红. “子女外出务工对父母健康和生活满意度影响研究”, 经济学(季刊), 2014, 14 (1):185-202. -Link-, -PDF-\n连玉君, 王闻达, 叶汝财. “Hausman 检验统计量有效性的 Monte Carlo 模拟分析”. 数理统计与管理, 2014, 33 (5): 830-841. -Link-\n李增福, 黎慧玲, 连玉君, “公允价值变动列报的市场反应”. 会计研究, 2013 (10): 15-21. -Link-\n范红忠, 黄永明, 连玉君. “就业生命时间、劳动者收入的持久性与我国居民消费率”. 经济学(季刊), 2013, 12 (4): 1209-1230. -Link-\n彭方平, 连玉君, 赵慧敏. “经济增长与我国通货膨胀容忍度”.金融研究, 2013 (3): 87-100. -Link-\n彭方平, 连玉君, 胡新明, 赵慧敏. “规模经济、卡甘效应与微观货币需求——兼论我国高货币化之谜”. 经济研究, 2013 (4): 83-93. -Link-\n彭方平, 樊海潮，连玉君, 展凯. 我国通货膨胀类型的甄别——基于企业层面的经验证据”. 经济研究, 2012 (8): 70-80.\n李增福, 顾研, 连玉君. 税率变动、破产成本与资本结构非对称调整. 金融研究, 2012 (5): 136-150.\n陈晓玲, 连玉君. 资本-劳动替代弹性与地区经济增长——德拉格兰德维尔假说的检验. 经济学(季刊), 2012, 12 (1): 93-118. -Link-\n叶德珠, 连玉君, 黄有光, 李东辉. 消费文化、认知偏差与消费行为偏差. 经济研究, 2012 (2): 80-92. -Link-\n鲁晓东, 连玉君. 中国工业企业全要素生产率估计：1999-2007. 经济学(季刊), 2012, 11 (2): 541-558. -Link-\n连玉君, 刘醒云, 苏治. 现金持有的行业特征：差异性与收敛性, 会计研究, 2011 (7): 66-72. -Link-\n苏治, 连玉君. 中国上市公司代理成本的估算——基于异质性随机前沿模型的经验分析，管理世界，2011 (6): 174-175+188. -Link-\nLian, Y.J., Z. Su, Y.D. Gu, Evaluating the Effects of Equity Incentives using PSM: Evidence from China. Frontiers of Business Research in China, 2011, 5 (2): 266-290. -Link-\n卢洪友, 连玉君, 卢盛峰. 中国医疗服务市场中的信息不对称程度测算. 经济研究, 2011 (04): 94-106. -Link-\n李增福, 董志强, 连玉君. 应计项目盈余管理还是真实活动盈余管理？——基于我国 2007 年所得税改革的研究, 管理世界, 2011 (1): 121-134. -Link-\n彭方平, 连玉君. 2010, 我国货币政策的成本效应, 管理世界, 12, 27-33. -Link-\n连玉君, 苏治, 彭方平. 融资约束与流动性管理行为. 金融研究, 2010 (10): 158-171. -Link-\n彭方平, 连玉君. 我国行业周期非同步效应——基于微观视角, 经济学(季刊), 2010, 9 (3): 1071-1082.\n\n连玉君, 苏治. 融资约束、不确定性与上市公司投资效率. 管理评论, 2009 (01)：19-27. -Link-\n连玉君, 苏治, 丁志国. 现金-现金流敏感性能检验融资约束假说吗? 统计研究, 2008 (10): 92-99. -Link-\n连玉君, 苏治. 上市公司现金持有:静态权衡还是动态权衡？世界经济, 2008 (10): 84-96. -Link-\n连玉君, 程建. 投资-现金流敏感性：融资约束还是代理成本. 财经研究, 2007 (2): 37-46. -Link-",
-    "crumbs": [
-      "Publications"
-    ]
+    "objectID": "assets/pre/index.html#拍日出",
+    "href": "assets/pre/index.html#拍日出",
+    "title": "Nikon出片",
+    "section": "1.1 拍日出",
+    "text": "1.1 拍日出\n日出前光线较弱，快门速度要慢，可能需要几秒甚至更长；日出时光线增强，快门速度可以加快到1/125s以上；日出后光线强烈，快门速度应提高到1/500s以上。\n点测光，对焦点可放在太阳边缘或下方的地平线上。\n\n黄金时间：日出前30分钟-日出后10分钟\n光圈: f8-f16（保证景深，全景清晰） 1\nISO: 100-400\n快门速度: 1/15-1/500s\n白平衡: 3000-7000K（根据光线调整，光线越强，白平衡调高）\n\n\n\n光圈、ISO和快门速度是摄影中最基本的三个参数，它们共同决定了照片的曝光和效果。选择合适的参数组合可以帮助你拍摄出理想的照片。\n小光圈，进光量越少，景深越深。"
   },
   {
-    "objectID": "publications.html#科研项目",
-    "href": "publications.html#科研项目",
-    "title": "Publications",
-    "section": "科研项目",
-    "text": "科研项目\n\n广东省自然科学基金委员会，面上项目，2023A1515012307，科创板IP0 定价效率研究，2023.1.1-2025.12.31，资助额：10 万元. 负责人：连玉君\n广东省自然科学基金委员会，面上项目，2020A1515011291，股权质押的风险传染与防范措施研究，2019.10.1-2022.9.30，资助额：10 万元. 已结项，主持\n国家自然科学基金委员会，面上项目，71672206，中国上市公司财务决策中的同群效应研究，2017.01-2020.12, 资助额：48 万元，结项申请，主持\n国家自然科学基金委员会，青年项目，71002056，中国上市公司流动性管理行为研究：动机、方式与经济后果，2011.01-2013.12，资助额：18 万元，已结项(评定为“优”)，主持\n国家税务总局委托项目，编号：10000-71210549，“基于随机边界分析的税收流失率估算研究”，2016/09-2017/09, 资助额：20 万, 已结项。\n广东省省委宣传部，广东省社科规划项目，LLYJ1313，打造“理论粤军”2013 年度重大现实问题研究招标课题“广东做大做强民营经济研究”，2014.01-2016.01，资助额：25 万元，已结项，主持\n广东省自然科学基金委员会，科技计划项目，2011B040400006，促进广东高新技术业和科技服务业协同发展的科技服务模式研究，2011.09-2012.08，资助额：20 万元，已结项，主持\n教育部人文社会科学研究基金青年项目“转型背景下中国上市公司投资效率研究”，(编号：09YJC790269)，2009.12-2012.12. 负责人: 连玉君. 资助额：5 万. (已结项)\n广东省自然科学基金项目“广东科技型企业研发模式和研发效率研究”，（9451027501002497），2009.10-2011.10. 负责人: 连玉君. 资助额：3 万. (已结项)",
-    "crumbs": [
-      "Publications"
-    ]
+    "objectID": "assets/pre/index.html#拍日落",
+    "href": "assets/pre/index.html#拍日落",
+    "title": "Nikon出片",
+    "section": "1.2 拍日落",
+    "text": "1.2 拍日落\n\n光圈: f8-f16\nISO: 100-400\n快门速度: 1/200-1/30s\n白平衡: 3000-7000K（橘黄色调可将色温K值设置在5800-7000K）"
   },
   {
-    "objectID": "gallery/photography/p2/p2.html",
-    "href": "gallery/photography/p2/p2.html",
+    "objectID": "assets/pre/index.html#拍星空",
+    "href": "assets/pre/index.html#拍星空",
+    "title": "Nikon出片",
+    "section": "1.3 拍星空",
+    "text": "1.3 拍星空\n\nM档手动模式\n选择广角镜头，焦距35mm以下\n搭配稳固三脚架，对准银河方向\n光圈: f1.8（越大越好）\nISO: 800-6400\n快门速度: 15-30秒（300法则或400法则）\n白平衡：4000K\nMF手动对焦，对准夜空较亮的星星，调到无穷远，往回拉一点，调整到星星清晰\n关闭防抖\n关闭长时间曝光降噪\n关闭动态D-Lighting\n关闭高ISO降噪\n暗角控制选择高\n开启间隔拍摄，间隔时间要在快门速度基础上加2~3秒\n可选生成延时摄影视频"
+  },
+  {
+    "objectID": "gallery/photography/photography.html",
+    "href": "gallery/photography/photography.html",
     "title": "pankid’s Photography",
     "section": "",
-    "text": "回到顶部",
+    "text": "具体拍摄的配置可以看pre演示文稿。\n我的相机设备是尼康ℤ6Ⅲ\n相机展示图可见img/尼康ℤ6Ⅲ",
     "crumbs": [
       "Gallery",
       "Photography",
-      "P2",
       "pankid's Photography"
     ]
   },
   {
-    "objectID": "gallery/photography/pre/index.html#拍日出",
-    "href": "gallery/photography/pre/index.html#拍日出",
-    "title": "Nikon出片攻略",
-    "section": "1.1 拍日出",
-    "text": "1.1 拍日出\n日出前光线较弱，快门速度要慢，可能需要几秒甚至更长；日出时光线增强，快门速度可以加快到1/125s以上；日出后光线强烈，快门速度应提高到1/500s以上。\n点测光，对焦点可放在太阳边缘或下方的地平线上。\n\n黄金时间：日出前30分钟-日出后10分钟\n光圈: f8-f16（保证景深，全景清晰） 1\nISO: 100-400\n快门速度: 1/15-1/500s\n白平衡: 3000-7000K（根据光线调整，光线越强，白平衡调高）\n\n\n\n光圈、ISO和快门速度是摄影中最基本的三个参数，它们共同决定了照片的曝光和效果。选择合适的参数组合可以帮助你拍摄出理想的照片。\n小光圈，进光量越少，景深越深。",
+    "objectID": "gallery/photography/photography.html#creating-slides",
+    "href": "gallery/photography/photography.html#creating-slides",
+    "title": "pankid’s Photography",
+    "section": "Creating Slides",
+    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
     "crumbs": [
       "Gallery",
       "Photography",
-      "Nikon出片攻略"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/pre/index.html#拍日落",
-    "href": "gallery/photography/pre/index.html#拍日落",
-    "title": "Nikon出片攻略",
-    "section": "1.2 拍日落",
-    "text": "1.2 拍日落\n\n光圈: f8-f16\nISO: 100-400\n快门速度: 1/200-1/30s\n白平衡: 3000-7000K（橘黄色调可将色温K值设置在5800-7000K）",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Nikon出片攻略"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/pre/index.html#拍星空",
-    "href": "gallery/photography/pre/index.html#拍星空",
-    "title": "Nikon出片攻略",
-    "section": "1.3 拍星空",
-    "text": "1.3 拍星空\n\nM档手动模式\n选择广角镜头，焦距35mm以下\n搭配稳固三脚架，对准银河方向\n光圈: f1.8（越大越好）\nISO: 800-6400\n快门速度: 15-30秒（300法则或400法则）\n白平衡：4000K\nMF手动对焦，对准夜空较亮的星星，调到无穷远，往回拉一点，调整到星星清晰\n关闭防抖\n关闭长时间曝光降噪\n关闭动态D-Lighting\n关闭高ISO降噪\n暗角控制选择高\n开启间隔拍摄，间隔时间要在快门速度基础上加2~3秒\n可选生成延时摄影视频",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "Nikon出片攻略"
+      "pankid's Photography"
     ]
   },
   {

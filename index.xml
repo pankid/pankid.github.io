@@ -63,6 +63,13 @@
                         url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359950706_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.flac',
                         cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
                         lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359947394_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.lrc'
+                    },
+                    {
+                        name: '胆小鬼',
+                        artist: '梁咏琪',
+                        url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904867259_胆小鬼-梁咏琪.flac',
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+                        lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904868178_胆小鬼-梁咏琪.lrc'
                     }
                 ]
             });
@@ -152,6 +159,13 @@
                         url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359950706_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.flac',
                         cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
                         lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359947394_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.lrc'
+                    },
+                    {
+                        name: '胆小鬼',
+                        artist: '梁咏琪',
+                        url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904867259_胆小鬼-梁咏琪.flac',
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+                        lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904868178_胆小鬼-梁咏琪.lrc'
                     }
                 ]
             });
@@ -241,6 +255,13 @@
                         url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359950706_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.flac',
                         cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
                         lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359947394_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.lrc'
+                    },
+                    {
+                        name: '胆小鬼',
+                        artist: '梁咏琪',
+                        url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904867259_胆小鬼-梁咏琪.flac',
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+                        lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904868178_胆小鬼-梁咏琪.lrc'
                     }
                 ]
             });
@@ -331,6 +352,13 @@
                         url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359950706_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.flac',
                         cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
                         lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791359947394_白鸽乌鸦相爱的戏码-潘成（皮卡潘）.lrc'
+                    },
+                    {
+                        name: '胆小鬼',
+                        artist: '梁咏琪',
+                        url: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904867259_胆小鬼-梁咏琪.flac',
+                        cover: 'https://cloudflare-imgbed-cea.pages.dev/file/img/1789908381053_wukong5.jpeg',
+                        lrc: 'https://cloudflare-imgbed-cea.pages.dev/file/audio/1791904868178_胆小鬼-梁咏琪.lrc'
                     }
                 ]
             });
