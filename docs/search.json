@@ -151,89 +151,30 @@
     ]
   },
   {
-    "objectID": "gallery/photography/photography.html",
-    "href": "gallery/photography/photography.html",
-    "title": "pankid’s Photography",
-    "section": "",
-    "text": "具体拍摄的配置可以看pre演示文稿。\n我的相机设备是尼康ℤ6Ⅲ\n相机展示图可见img/尼康ℤ6Ⅲ",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "pankid's Photography"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/photography.html#creating-slides",
-    "href": "gallery/photography/photography.html#creating-slides",
-    "title": "pankid’s Photography",
-    "section": "Creating Slides",
-    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "pankid's Photography"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/p1/荔滨大道.html",
-    "href": "gallery/photography/p1/荔滨大道.html",
-    "title": "南宁荔滨大道",
-    "section": "",
-    "text": "南宁荔滨大道\n拍摄于2026年10月3日。\n荔滨大道位于青秀区，照片可见 表 1。\n原图可见Photography/荔滨大道\n\n\n\n表 1: 荔滨大道\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 回到顶部",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "P1",
-      "南宁荔滨大道"
-    ]
-  },
-  {
-    "objectID": "gallery/photography/p1/p1.html",
-    "href": "gallery/photography/p1/p1.html",
+    "objectID": "gallery/photography/p2/p2.html",
+    "href": "gallery/photography/p2/p2.html",
     "title": "pankid’s Photography",
     "section": "",
     "text": "回到顶部",
     "crumbs": [
       "Gallery",
       "Photography",
-      "P1",
+      "P2",
       "pankid's Photography"
     ]
   },
   {
-    "objectID": "codes.html",
-    "href": "codes.html",
-    "title": "Codes",
+    "objectID": "gallery/photography/p1/星湖路.html",
+    "href": "gallery/photography/p1/星湖路.html",
+    "title": "南宁星湖路天桥",
     "section": "",
-    "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换.\n\n\n\n\n\n 回到顶部"
-  },
-  {
-    "objectID": "about.html#个人简介",
-    "href": "about.html#个人简介",
-    "title": "pankid",
-    "section": "个人简介",
-    "text": "个人简介\npankid"
-  },
-  {
-    "objectID": "about.html#关注领域",
-    "href": "about.html#关注领域",
-    "title": "pankid",
-    "section": "关注领域",
-    "text": "关注领域\n社会学（Sociology）、经济学（Economics）"
-  },
-  {
-    "objectID": "about.html#兴趣技能",
-    "href": "about.html#兴趣技能",
-    "title": "pankid",
-    "section": "兴趣技能",
-    "text": "兴趣技能\n爱好风光摄影（Photography）\n数据分析（Data Analysis）\nPython、Stata、R、Markdown、Quarto"
-  },
-  {
-    "objectID": "about.html#个人经历",
-    "href": "about.html#个人经历",
-    "title": "pankid",
-    "section": "个人经历",
-    "text": "个人经历\n\n2025~至今：Work\n2021~2025：大学（University）\n2018~2021：高中（High school）"
+    "text": "南宁星湖路天桥三角梅\n拍摄于2026年9月19日。 星湖路有两座天桥，照片可见 表 1。\n原图可见Photography/星湖路\n\n\n\n表 1: 星湖路天桥三角梅\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是表格标题\n\n\n表头1\n表头2\n\n\n\n\n\nvertical-align: top意思是可垂直居中\n\n\n\n\n\n\ntext-align: center\n\n\n\ntext-align: right\n\n\n\n\n\n\n\n\n 回到顶部",
+    "crumbs": [
+      "Gallery",
+      "Photography",
+      "P1",
+      "南宁星湖路天桥"
+    ]
   },
   {
     "objectID": "books.html",
@@ -276,65 +217,109 @@
     ]
   },
   {
-    "objectID": "gallery/photography/p1/星湖路.html",
-    "href": "gallery/photography/p1/星湖路.html",
-    "title": "南宁星湖路天桥",
-    "section": "",
-    "text": "南宁星湖路天桥三角梅\n拍摄于2026年9月19日。 星湖路有两座天桥，照片可见 表 1。\n原图可见Photography/星湖路\n\n\n\n表 1: 星湖路天桥三角梅\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是表格标题\n\n\n表头1\n表头2\n\n\n\n\n\nvertical-align: top意思是可垂直居中\n\n\n\n\n\n\ntext-align: center\n\n\n\ntext-align: right\n\n\n\n\n\n\n\n\n 回到顶部",
-    "crumbs": [
-      "Gallery",
-      "Photography",
-      "P1",
-      "南宁星湖路天桥"
-    ]
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "pankid",
+    "section": "个人简介",
+    "text": "个人简介\npankid"
   },
   {
-    "objectID": "gallery/photography/p2/p2.html",
-    "href": "gallery/photography/p2/p2.html",
+    "objectID": "about.html#关注领域",
+    "href": "about.html#关注领域",
+    "title": "pankid",
+    "section": "关注领域",
+    "text": "关注领域\n社会学（Sociology）、经济学（Economics）"
+  },
+  {
+    "objectID": "about.html#兴趣技能",
+    "href": "about.html#兴趣技能",
+    "title": "pankid",
+    "section": "兴趣技能",
+    "text": "兴趣技能\n爱好风光摄影（Photography）\n数据分析（Data Analysis）\nPython、Stata、R、Markdown、Quarto"
+  },
+  {
+    "objectID": "about.html#个人经历",
+    "href": "about.html#个人经历",
+    "title": "pankid",
+    "section": "个人经历",
+    "text": "个人经历\n\n2025~至今：Work\n2021~2025：大学（University）\n2018~2021：高中（High school）"
+  },
+  {
+    "objectID": "assets/pre/index.html#拍日出",
+    "href": "assets/pre/index.html#拍日出",
+    "title": "Nikon出片",
+    "section": "1.1 拍日出",
+    "text": "1.1 拍日出\n日出前光线较弱，快门速度要慢，可能需要几秒甚至更长；日出时光线增强，快门速度可以加快到1/125s以上；日出后光线强烈，快门速度应提高到1/500s以上。\n点测光，对焦点可放在太阳边缘或下方的地平线上。\n\n黄金时间：日出前30分钟-日出后10分钟\n光圈: f8-f16（保证景深，全景清晰） 1\nISO: 100-400\n快门速度: 1/15-1/500s\n白平衡: 3000-7000K（根据光线调整，光线越强，白平衡调高）\n\n\n\n光圈、ISO和快门速度是摄影中最基本的三个参数，它们共同决定了照片的曝光和效果。选择合适的参数组合可以帮助你拍摄出理想的照片。\n小光圈，进光量越少，景深越深。"
+  },
+  {
+    "objectID": "assets/pre/index.html#拍日落",
+    "href": "assets/pre/index.html#拍日落",
+    "title": "Nikon出片",
+    "section": "1.2 拍日落",
+    "text": "1.2 拍日落\n\n光圈: f8-f16\nISO: 100-400\n快门速度: 1/200-1/30s\n白平衡: 3000-7000K（橘黄色调可将色温K值设置在5800-7000K）"
+  },
+  {
+    "objectID": "assets/pre/index.html#拍星空",
+    "href": "assets/pre/index.html#拍星空",
+    "title": "Nikon出片",
+    "section": "1.3 拍星空",
+    "text": "1.3 拍星空\n\nM档手动模式\n选择广角镜头，焦距35mm以下\n搭配稳固三脚架，对准银河方向\n光圈: f1.8（越大越好）\nISO: 800-6400\n快门速度: 15-30秒（300法则或400法则）\n白平衡：4000K\nMF手动对焦，对准夜空较亮的星星，调到无穷远，往回拉一点，调整到星星清晰\n关闭防抖\n关闭长时间曝光降噪\n关闭动态D-Lighting\n关闭高ISO降噪\n暗角控制选择高\n开启间隔拍摄，间隔时间要在快门速度基础上加2~3秒\n可选生成延时摄影视频"
+  },
+  {
+    "objectID": "codes.html",
+    "href": "codes.html",
+    "title": "Codes",
+    "section": "",
+    "text": "Many of the links below will take you to content on GitHub (my github).\n\nlianxh：在 Stata 中快速搜索 lianxh.cn 推文并按指定格式输出\n\n连享会, 2020, ssc install lianxh：你想要的 Stata 都在这里\n连享会, 2023, 新版lianxh命令发布了！\n\nbdiff：组间系数差异检验\n\n李烨阳, 2023, Stata：自己动手做组间系数差异检验-bootstrap-bdiff.\n连玉君, 2020, Stata: 如何检验分组回归后的组间系数差异？.\n\nwinsor2：批量缩尾处理\n\n袁煜玲, 2021, winsor2：离群值和异常值的缩尾处理.\n\nihelp / wwwhelp\n\n连享会, 2024, ihelp: 快速打开Stata帮助文件PDF手册.\nChen Yongli, Lian Yujun*. Browse and cite Stata manuals easily: the wwwhelp command. Stata Journal, 2024, 24 (1): 161–168. -PDF-. 安装：ssc install ihelp, replace\n\ngetiref\n\n连玉君, 2024, getiref：快速获得文献的引文和PDF原文.\n\nsftt：双边随机边界模型\n\nLian Yujun, Chang Liu, Christopher F. Parmeter. Two-tier stochastic frontier analysis using Stata. Stata Journal, 2023, 23(1): 197-229. -Link-, -PDF-, Codes & Data, github. 安装：net install st0705.pkg, all replace\n\nhhi5：赫芬达尔指数\n\n连享会, 2020, Stata数据处理：赫芬达尔指数-(hhi5)-命令介绍\n\nxtbalance：非平衡面板 → 平衡面板\n\n吴雄, 2020, Stata数据处理：xtbalance-非平衡面板之转换.\n\n\n\n\n\n 回到顶部"
+  },
+  {
+    "objectID": "gallery/photography/p1/p1.html",
+    "href": "gallery/photography/p1/p1.html",
     "title": "pankid’s Photography",
     "section": "",
     "text": "回到顶部",
     "crumbs": [
       "Gallery",
       "Photography",
-      "P2",
+      "P1",
       "pankid's Photography"
     ]
   },
   {
-    "objectID": "gallery/photography/pre/index.html#拍日出",
-    "href": "gallery/photography/pre/index.html#拍日出",
-    "title": "Nikon出片攻略",
-    "section": "1.1 拍日出",
-    "text": "1.1 拍日出\n日出前光线较弱，快门速度要慢，可能需要几秒甚至更长；日出时光线增强，快门速度可以加快到1/125s以上；日出后光线强烈，快门速度应提高到1/500s以上。\n点测光，对焦点可放在太阳边缘或下方的地平线上。\n\n黄金时间：日出前30分钟-日出后10分钟\n光圈: f8-f16（保证景深，全景清晰） 1\nISO: 100-400\n快门速度: 1/15-1/500s\n白平衡: 3000-7000K（根据光线调整，光线越强，白平衡调高）\n\n\n\n光圈、ISO和快门速度是摄影中最基本的三个参数，它们共同决定了照片的曝光和效果。选择合适的参数组合可以帮助你拍摄出理想的照片。\n小光圈，进光量越少，景深越深。",
+    "objectID": "gallery/photography/p1/荔滨大道.html",
+    "href": "gallery/photography/p1/荔滨大道.html",
+    "title": "南宁荔滨大道",
+    "section": "",
+    "text": "南宁荔滨大道\n拍摄于2026年10月3日。\n荔滨大道位于青秀区，照片可见 表 1。\n原图可见Photography/荔滨大道\n\n\n\n表 1: 荔滨大道\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 回到顶部",
     "crumbs": [
       "Gallery",
       "Photography",
-      "Nikon出片攻略"
+      "P1",
+      "南宁荔滨大道"
     ]
   },
   {
-    "objectID": "gallery/photography/pre/index.html#拍日落",
-    "href": "gallery/photography/pre/index.html#拍日落",
-    "title": "Nikon出片攻略",
-    "section": "1.2 拍日落",
-    "text": "1.2 拍日落\n\n光圈: f8-f16\nISO: 100-400\n快门速度: 1/200-1/30s\n白平衡: 3000-7000K（橘黄色调可将色温K值设置在5800-7000K）",
+    "objectID": "gallery/photography/photography.html",
+    "href": "gallery/photography/photography.html",
+    "title": "pankid’s Photography",
+    "section": "",
+    "text": "具体拍摄的配置可以看pre演示文稿。\n我的相机设备是尼康ℤ6Ⅲ\n相机展示图可见img/尼康ℤ6Ⅲ",
     "crumbs": [
       "Gallery",
       "Photography",
-      "Nikon出片攻略"
+      "pankid's Photography"
     ]
   },
   {
-    "objectID": "gallery/photography/pre/index.html#拍星空",
-    "href": "gallery/photography/pre/index.html#拍星空",
-    "title": "Nikon出片攻略",
-    "section": "1.3 拍星空",
-    "text": "1.3 拍星空\n\nM档手动模式\n选择广角镜头，焦距35mm以下\n搭配稳固三脚架，对准银河方向\n光圈: f1.8（越大越好）\nISO: 800-6400\n快门速度: 15-30秒（300法则或400法则）\n白平衡：4000K\nMF手动对焦，对准夜空较亮的星星，调到无穷远，往回拉一点，调整到星星清晰\n关闭防抖\n关闭长时间曝光降噪\n关闭动态D-Lighting\n关闭高ISO降噪\n暗角控制选择高\n开启间隔拍摄，间隔时间要在快门速度基础上加2~3秒\n可选生成延时摄影视频",
+    "objectID": "gallery/photography/photography.html#creating-slides",
+    "href": "gallery/photography/photography.html#creating-slides",
+    "title": "pankid’s Photography",
+    "section": "Creating Slides",
+    "text": "Creating Slides\nIn markdown, slides are delineated using headings. For example, here is a simple slide show with two slides (each defined with a level 2 heading (##):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nYou can also divide slide shows into sections with title slides using a level 1 heading (#). For example:\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\nFinally, you can also delineate slides using horizontal rules (for example, if you have a slide without a title):\n---\ntitle: \"Habits\"\nauthor: \"John Doe\"\nformat: revealjs\n---\n\n- Turn off alarm\n- Get out of bed\n\n---\n\n- Get in bed\n- Count sheep\nThe examples above all use level 2 headings for slides and level 1 headings for sections/title slides. You can customize this using the slide-level option (See the Pandoc documentation on structuring the slide show for additional details.\n\nTitle Slide\nYou’ll notice in the above examples that a title slide is automatically created based on the title and author provided in the document YAML options. However, sometimes you don’t want an explicit title slide (e.g. if your first slide consists entirely of a background image). It’s perfectly valid to create a presentation without a title slide, just exclude the title and author options:\n---\nformat: revealjs\n---\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Going to sleep\n\n- Get in bed\n- Count sheep",
     "crumbs": [
       "Gallery",
       "Photography",
-      "Nikon出片攻略"
+      "pankid's Photography"
     ]
   },
   {

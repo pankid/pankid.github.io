@@ -54,13 +54,9 @@ website:
     pinned: true
     search: true
     left: 
-      - text: "Publications"
-        icon: journals
-        href: publications.qmd
-        target: _blank
-      - text: "Books"
-        icon: book
-        href: books.qmd
+      - text: "CV"
+        icon: person-vcard
+        href: about.qmd
         target: _blank
       - text: "Blogs"
         icon: file-post
@@ -70,9 +66,13 @@ website:
         icon: code
         href: codes.qmd
         target: _blank
-      - text: "CV"
-        icon: person-vcard
-        href: about.qmd
+      - text: "Books"
+        icon: book
+        href: books.qmd
+        target: _blank
+      - text: "Publications"
+        icon: journals
+        href: publications.qmd
         target: _blank
       - text: "Gallery"
         icon: camera

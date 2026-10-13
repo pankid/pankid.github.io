@@ -1,5 +1,5 @@
 ---
-title: "Nikon出片攻略"
+title: "Nikon出片"
 subtitle: "年少有为用尼康，摄影从此不慌张！不管天气好不好，尼康在手没烦恼"
 author: 
   - name: pankid
@@ -10,7 +10,7 @@ format:
   revealjs:
     theme: serif
     # default,dracula,serif,simple,sky
-    footer: "作者：pankid · 标题：Nikon出片攻略 · 日期：2026-08-30"
+    footer: "作者：pankid · 标题：Nikon出片 · 日期：2026-08-30"
     logo: images/nikon.png
     incremental: true
     navigation-mode: vertical
@@ -24,6 +24,7 @@ format:
 
 # 1. 拍摄风光
 
+相机：[**尼康*ℤ6Ⅲ***](https://www.nikon.com.cn/sc_CN/product/mirrorless/z6iii)  
 基础设备：三脚架  
 镜头选择：广角镜头+中长焦镜头
 
