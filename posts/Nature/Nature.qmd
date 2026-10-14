@@ -1,0 +1,12 @@
+---
+title: "Nature"
+subtitle: "自然"
+abstract: "关于自然"
+author: "pankid"
+date: "2026-10-15 19:00"
+date-format: "YYYY年M月D日 dddd A HH:mm"
+categories: [nature]
+---
+
+
+# 《Nature》
