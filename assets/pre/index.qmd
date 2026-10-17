@@ -1,6 +1,6 @@
 ---
 title: "Nikon出片"
-subtitle: "年少有为用尼康，摄影从此不慌张！不管天气好不好，尼康在手没烦恼"
+subtitle: "年少有为用尼康，摄影从此不慌张！"
 author: 
   - name: pankid
     email: pankid4250@gmail.com
@@ -70,8 +70,6 @@ format:
 
 # 2. 拍摄人像
 
----
+目中无人？
 
-- **光圈: f1.8**
-- **ISO: 200**
-- **快门速度: 1/200s**
+## 2.1 先有个模特
